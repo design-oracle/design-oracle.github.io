@@ -29,7 +29,7 @@ font-weight: 1 999; }
 
 html {
 vertical-align: baseline;
-background-color: hsl(var(--primary-hs) var(--l-100)); }
+background-color: #fff; }
 
 body {
 font-family: 'Arapey Regular', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
