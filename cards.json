@@ -1,0 +1,464 @@
+{
+	"cards": [
+		{
+			"number": 1,
+			"name": "Dream",
+			"image": "./images/cards/1-dream.png",
+			"desc": "Let your mind drift beyond the boundaries of what is, into the infinite space where innovation begins. Here, in the realm of pure potential, the seeds of new experiences take root.",
+			"ritual": [
+				{"step": "Find a quiet space with a blank notebook."},
+				{"step": "Start a timer for 15 minutes."},
+				{"step": "Begin by writing &#x0022;In my wildest dreams, this project would...&#x0022;"},
+				{"step": "Let your mind wander beyond constraints of time, technology, or feasibility."},
+				{"step": "Draw or write whatever comes, no matter how impossible it seems."},
+				{"step": "When the timer ends, circle three elements that spark the strongest emotional response. These are your dream anchors – wild ideas that might contain seeds of practical innovation. Carry them with you while you work."}
+			],
+			"oracle": [
+				{"positive": "Positive: Your imagination needs room to soar. Release the constraints of &#x0022;how&#x0022; and focus on &#x0022;what if.&#x0022; This is a time for blue-sky thinking and radical possibilities. Trust that practical solutions can emerge from seemingly impossible dreams. Your subconscious is trying to tell you something – listen to those wild ideas you usually dismiss."},
+				{"negative": "Negative: You might be stuck in analysis paralysis or too focused on limitations. Are you letting past failures or current constraints clip your creative wings? Alternatively, you might be lost in dreams without grounding them in reality. Find the balance between imagination and actionable ideas."}
+			]
+		},
+		{
+			"number": 2,
+			"name": "Envision",
+			"image": "./images/cards/2-envision.png",
+			"desc": "Give form to formless potential. This is the moment to paint with broad strokes, before constraints and limitations cast their shadows on possibility.",
+			"ritual": [
+				{"step": "Create a future headline or press release announcing your project's successful launch. Write it in present tense, one year from now. Include quotes from fictional users describing how it changed their lives."},
+				{"step": "Read it aloud, then close your eyes and visualize the scene of people actually using your design. What emotions do you see on their faces? What problems have been solved?"}
+			],
+			"oracle": [
+				{"positive": "Positive: It's time to create a clear vision of success. You have the ability to see beyond current circumstances to what could be. Trust your ability to envision positive change. Focus on impact rather than features – how will this really improve lives?"},
+				{"negative": "Negative:Your vision might be clouded by assumptions or biases. Are you projecting your own needs onto users? Perhaps you're struggling to see the bigger picture or have lost sight of the true purpose. Step back and realign with genuine user needs."}
+			]
+		},
+		{
+			"number": 3,
+			"name": "Diagnose",
+			"image": "./images/cards/3-diagnose.png",
+			"desc": "Look deeper than the visible symptoms to find root causes. Listen to the whispers of data and the subtle signals that reveal underlying truths.",
+			"ritual": [
+				{"step": "Grab three different colored pens."},
+				{"step": "With the first color, write down all observable symptoms of the design problem. Think of who experiences the problem, where they encounter the problem, what the nature of the problem is, and how it manifests for your users."},
+				{"step": "With the second color, write down what might be causing the symptoms you’ve listed. Ask yourself why until you think you’ve found the source. Draw lines to connect these root causes with the symptoms."},
+				{"step": "With the third color, circle the patterns that emerge. Summarize these patterns from each of your users’ perspectives."}
+			],
+			"oracle": [
+				{"positive": "Positive: You have the insight needed to uncover root causes. Look beneath surface-level problems to find deeper patterns. Trust your analytical abilities but stay open to unexpected diagnoses. The true problem may not be where you first look."},
+				{"negative": "Negative: You might be treating symptoms rather than causes. Are you rushing to solutions before fully understanding the problem? Be careful of confirmation bias – you might be seeing only what you expect to see."}
+			]
+		},
+		{
+			"number": 4,
+			"name": "Describe",
+			"image": "./images/cards/4-describe.png",
+			"desc": "In the space between silence and speech lies the alchemy of turning abstract ideas into shared understanding. Choose your words as carefully as a jeweler selects precious stones.",
+			"ritual": [
+				{"step": "Write down a brief description of your project as you currently understand it. Limit yourself to a few sentences."},
+				{"step": "Find someone unfamiliar with your project and read them your description."},
+				{"step": "Give them exactly three minutes to ask you any questions about it."},
+				{"step": "Record or write down your responses verbatim. Pay special attention to where they may be confused by the language you used to describe the work."},
+				{"step": "Then, take five minutes to rewrite your description, removing all jargon and technical terms."},
+				{"step": "Finally, explain it again in just one sentence. Which version resonates most?"}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to articulate your ideas clearly. Focus on essence rather than details. Your ability to communicate complex ideas simply will be crucial now. The right words will come when you connect with your authentic understanding."},
+				{"negative": "Negative: You might be hiding behind complexity or struggling to find the right words. Are you really clear about what you're trying to say? Perhaps you're oversimplifying or overcomplicating. Find clarity within before trying to explain to others."}
+			]
+		},
+		{
+			"number": 5,
+			"name": "Plan",
+			"image": "./images/cards/5-plan.png",
+			"desc": "If you know where you want to go, you can plot a course to get there. Chart the course ahead with both conviction and flexibility. Even as you draw the map, remain open to discoveries that might reshape the territory.",
+			"ritual": [
+				{"step": "Think of your cycle goals. Hold them in your mind."},
+				{"step": "For each goal, write down 2 or 3 “big rocks” you need to lift to achieve them."},
+				{"step": "For each big rock, quickly brain dump all the tasks you think you’ll need to complete."},
+				{"step": "Return to your cycle goals. Keep them in your mind as you scan your list of tasks. Strikeout anything that doesn’t directly serve them."}
+			],
+			"oracle": [
+				{"positive": "Positive: This is the time to create structure and order. You have the clarity needed to map the path forward. Trust your ability to break big goals into manageable steps. Focus on sequence and dependencies."},
+				{"negative": "Negative: You might be over-planning or resistant to necessary structure. Are you using planning as a form of procrastination? Perhaps you're too rigid in your approach. Remember that plans should serve the project, not constrain it."}
+			]
+		},
+		{
+			"number": 6,
+			"name": "Prioritize",
+			"image": "./images/cards/6-prioritize.png",
+			"desc": "Not all paths can be walked at once. Discern which lights must be followed first in the constellation of possibilities before you.",
+			"ritual": [
+				{"step": "Write each task or feature for your design on a separate card."},
+				{"step": "Create a grid with &#x0022;Impact&#x0022; on one axis and &#x0022;Effort&#x0022; on the other."},
+				{"step": "Place each card in the grid."},
+				{"step": "Now, remove one card at a time, starting with low impact/high effort."},
+				{"step": "Stop removing cards when it feels painful. What remains is your true priority list."}
+			],
+			"oracle": [
+				{"positive": "Positive: You have the wisdom to distinguish between what's urgent and what's important. Trust your ability to make tough choices. Focus on what truly matters rather than what's merely pressing."},
+				{"negative": "Negative: You might be avoiding difficult decisions or trying to do everything at once. Are you letting others' urgencies override your priorities? Perhaps you're too focused on short-term gains over long-term value."}
+			]
+		},
+		{
+			"number": 7,
+			"name": "Affirm",
+			"image": "./images/cards/7-affirm.png",
+			"desc": "Stand firm in your understanding while remaining open to new insights. Let affrmation crystallize what feels like scattered knowledge into a confident direction.",
+			"ritual": [
+				{"step": "Take a moment to write down three specific successes from your past design work."},
+				{"step": "For each one, write: &#x0022;I succeeded then because...&#x0022;"},
+				{"step": "Now write: &#x0022;I will succeed now because...&#x0022;"},
+				{"step": "Create a simple affirmation that bridges your past success with your current challenge. Post it where you'll see it daily."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to acknowledge and build on your strengths. You have more experience and capability than you might realize. Trust your growth and learning from past experiences. Your confidence will inspire others."},
+				{"negative": "Negative: You might be struggling with imposter syndrome or overconfidence. Are you giving yourself enough credit, or perhaps too much? Find the balance between humility and self-assurance."}
+			]
+		},
+		{
+			"number": 8,
+			"name": "Inspire",
+			"image": "./images/cards/8-inspire.png",
+			"desc": "Fan the flames of possibility until they catch in other minds. True inspiration spreads like wildfire through the forest of imagination.",
+			"ritual": [
+				{"step": "Do this thing first."},
+				{"step": "Do this thing second."},
+				{"step": "Do this thing third."}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to both find and create inspiration. Look for beauty and insight in unexpected places. Trust your ability to connect disparate ideas into something new. Your enthusiasm will energize others."},
+				{"negative": "You might be forcing inspiration or becoming too dependent on others' ideas. Are you copying rather than creating? Perhaps you're waiting for perfection before moving forward. Remember that inspiration serves creativity, not vice versa."}
+			]
+		},
+		{
+			"number": 9,
+			"name": "Cultivate",
+			"image": "./images/cards/9-cultivate.png",
+			"desc": "Your design practice, like a garden, requires nurturing over time. Each small action is water and sunlight for your growing practice.",
+			"ritual": [
+				{"step": "Choose three relationships in your design community to mindfully cultivate this week: someone who inspires you, someone you could mentor, and someone whose practice differs from yours."},
+				{"step": "For each, plan one meaningful interaction. This might be sharing a resource, offering specific feedback on their work, or scheduling a coffee chat to explore a shared challenge."},
+				{"step": "Document each interaction with a brief note about what you learned. Like a garden, relationships thrive on regular, thoughtful tending."}
+			],
+			"oracle": [
+				{"positive": "Positive: This is a time for nurturing professional relationships and community bonds. Focus on creating genuine connections rather than just networking. Trust that investing in others enriches your own practice. Your growth is intertwined with the growth of your community."},
+				{"negative": "Negative: You might be isolating yourself or maintaining only superficial professional connections. Are you taking more than you're giving in your relationships? Perhaps you're neglecting the community that could support your growth. Find balance between independence and interdependence in your practice."}
+			]
+		},
+		{
+			"number": 10,
+			"name": "Diverge",
+			"image": "./images/cards/10-diverge.png",
+			"desc": "Resist the gravity of the obvious solution. Let your mind explore every branching path, knowing that brilliance often hides in unexpected directions.",
+			"ritual": [
+				{"step": "Choose one aspect of your design problem."},
+				{"step": "Set a timer for one minute and sketch or write one possible solution."},
+				{"step": "Reset the timer and create another completely different solution."},
+				{"step": "Repeat five times without a break"},
+				{"step": "Take the most promising and most outrageous ideas and try to combine them into something new."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even &#x0022;wrong&#x0022; directions can lead to right solutions. The quantity of ideas will lead to quality."},
+				{"negative": "You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
+			]
+		},
+		{
+			"number": 11,
+			"name": "Embark",
+			"image": "./images/cards/11-embark.png",
+			"desc": "Trust that while the destination may be clear, the waters ahead will reveal their own wisdom in time. Begin with courage.",
+			"ritual": [
+				{"step": "Do this thing first."},
+				{"step": "Do this thing second."},
+				{"step": "Do this thing third."}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to begin a new phase or project. Trust your preparation while staying open to surprise. Focus on taking that first step rather than seeing the whole path. Your readiness is sufficient."},
+				{"negative": "Negative: You might be hesitating unnecessarily or rushing forward unprepared. Are you letting fear of the unknown hold you back? Perhaps you're ignoring important preparations. Find the right moment to begin."}
+			]
+		},
+		{
+			"number": 12,
+			"name": "Pair",
+			"image": "./images/cards/11-pair.png",
+			"desc": "Two brains can be better than one. Partnerships can forge new ideas. There’s a reason why good things come in pairs.",
+			"ritual": [
+				{"step": "Set a time to meet with a fellow designer for an hour or two. Each brings a problem they’re currently working on."},
+				{"step": "When you meet, take turns driving and observing."},
+				{"step": "On your turn driving, quickly describe the problem you’re trying to solve, any success metrics you may’ve defined, or any other context that’s important for the observer  to know. But, don’t dally. Try to maximize the time for getting stuck into the work."},
+				{"step": "Then, walk the observer through your designs. Talk out loud your thinking and why you made certain design decisions. Allow the observer to probe questions about your choices."},
+				{"step": "Make improvements, take on suggestions, and collaborate with your observer in the moment. This isn’t just a feedback session."},
+				{"step": "At half time, swap roles."},
+				{"step": "At the end, spend 5 minutes discussing what you each discovered. The wisdom emerges not just from the final design, but from the dialogue between different viewpoints."}
+			],
+			"oracle": [
+				{"positive": "Positive: Someone in your orbit holds a missing piece to your design puzzle. Fresh perspectives will illuminate blind spots in your design thinking. This is a moment to embrace vulnerability – let someone else see your process, your struggles, your half-formed ideas. Trust that the friction between two minds will polish your concepts to a brighter shine."},
+				{"negative": "Negative: You may be influenced too heavily by one of your closest relationships. Be cautious of your collaborators – they may hamper your unique viewpoint. It could be time to think critically about how you engage your community."}
+			]
+		},
+
+		{
+			"number": 13,
+			"name": "Execute",
+			"image": "./images/cards/13-execute.png",
+			"desc": "The moment has come for movement. Let plans flow from potential into reality, from the abstract into the tangible.",
+			"ritual": [
+				{"step": "Choose the smallest meaningful piece of your project that you can complete in one sitting."},
+				{"step": "Set up your workspace with only the tools needed for this specific task."},
+				{"step": "Work until that piece is done, then step back and acknowledge its completion before moving on. Progress lives in these small completions."}
+			],
+			"oracle": [
+				{"positive": "Positive: This is the time for focused action. You have what you need to move from planning to doing. Trust your preparation and dive in. Small, completed actions will build momentum."},
+				{"negative": "Negative: You might be stuck in analysis paralysis or rushing through implementation. Are you avoiding the actual work? Perhaps you're sacrificing quality for speed. Find the balance between action and attention to detail."}
+			]
+		},
+		{
+			"number": 14,
+			"name": "Play",
+			"image": "./images/cards/14-play.png",
+			"desc": "Approach your work with the boundless curiosity of a child discovering the world anew. In playfulness, innovation blooms.",
+			"ritual": [
+				{"step": "Set aside 20 minutes for purposeful play. Take your current design challenge and transform it into a game or playful exercise. What if it were a board game? A role-playing scenario? A building block challenge? Let go of practical constraints and see what insights emerge through play."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to embrace experimentation and joy in your process. Let go of seriousness and find the fun in creation. Trust that playfulness can lead to serious breakthroughs. Innovation often comes through enjoyment."},
+				{"negative": "Negative: You might be too rigid in your approach or using play as avoidance. Are you afraid of appearing unprofessional? Perhaps you're not taking necessary aspects seriously enough. Find the balance between play and purpose."}
+			]
+		},
+		{
+			"number": 15,
+			"name": "Reveal",
+			"image": "./images/cards/15-reveal.png",
+			"desc": "Like the moon emerging from clouds, insights that were always present but obscured now shine forth with unmistakable clarity.",
+			"ritual": [
+				{"step": "Create a board with three columns: &#x0022;What I Know,&#x0022; &#x0022;What I Think I Know,&#x0022; and &#x0022;What I Need to Know.&#x0022; "},
+				{"step": "Quickly write down 3 or 5 cards for each column, thinking about your design problem."},
+				{"step": "Then, take one item from &#x0022;What I Think I Know&#x0022; and challenge it with three probing questions. What gets revealed?"},
+				{"step": "For items in &#x0022;What I Need to Know&#x0022;, think of ways you can find out."}
+			],
+			"oracle": [
+				{"positive": "Positive: It's time to uncover hidden truths or assumptions. You have the courage to look beneath the surface. Trust your instincts about what needs to be examined. Transparency will lead to better decisions."},
+				{"negative": "Negative: You might be hiding from uncomfortable truths or revealing too much too soon. Are you making assumptions without evidence? Perhaps you're being unnecessarily secretive. Find the right balance of transparency."}
+			]
+		},
+		{
+			"number": 16,
+			"name": "Critique",
+			"image": "./images/cards/16-critique.png",
+			"desc": "Growth comes through careful questioning. The strongest designs are forged in the furnace of constructive feedback.",
+			"ritual": [
+				{"step": "Write three different personas on separate cards: &#x0022;The Enthusiast,&#x0022; &#x0022;The Skeptic,&#x0022; and &#x0022;The Deviant.&#x0022; "},
+				{"step": "Review your design through each perspective for exactly three minutes. Write down what each persona says, does, thinks, and feels."},
+				{"step": "Then step back into your own perspective and write a response to each. What patterns emerge from this dialogue?"}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to receive and give constructive feedback. Look for the wisdom in criticism while maintaining your vision. Trust your ability to separate helpful insights from unhelpful judgments."},
+				{"negative": "Negative: You might be too defensive about feedback or too harsh in your judgments. Are you taking criticism personally? Perhaps you're focusing on flaws without seeing strengths. Find balance in your assessments."}
+			]
+		},
+		{
+			"number": 17,
+			"name": "Decide",
+			"image": "./images/cards/17-decide.png",
+			"desc": "Flow decisively in one direction, knowing that while other paths may be valid, clarity comes through confident choice.",
+			"ritual": [
+				{"step": "Collect any open questions you have surrounding your work or your designs. Lay them out in front of you."},
+				{"step": "Return to your problem statement and goals. Hold them in your mind as you scan your list of open questions."},
+				{"step": "Quickly, grab the top 2 or 3 questions that are blocking your forward progress. What needs to be decided in order for you to move your work forward?"},
+				{"step": "Pick one of these open questions and quickly list the options you see that could unblock you."},
+				{"step": "Rate your potential options on the following:<br/><ul><li>Desirability: Give the option a “+” if you have high confidence that the solution will solve the problem statement directly. Give it a “-” if it doesn’t directly address the problem statement.</li><li>Feasibility: Give the option a “+” if you have high confidence that the solution is easy to pursue. Give it a “-” if you think the path forward is difficult.</li><li>Usability/aesthetics: Give the option a “+” if you have high confidence that the design feels good, that it meets your expectations for usability or aesthetics. Give it a “-” if you don’t.</li>"},
+				{"step": "Follow your confidence markers and decide which option is the most desirable, feasible, and usable."}
+			],
+			"oracle": [
+				{"positive": "Positive: Trust your ability to make clear choices. You have both the information and intuition needed. Focus on progress over perfection. Some decisions will reveal their wisdom only in hindsight."},
+				{"negative": "Negative: You might be trapped in indecision or making choices too hastily. Are you letting fear drive your decisions? Perhaps you're ignoring important factors. Find the balance between analysis and action."}
+			]
+		},
+		{
+			"number": 18,
+			"name": "Refine",
+			"image": "./images/cards/18-refine.png",
+			"desc": "Examine your work with a jeweler's eye. Each small adjustment brings your creation closer to its truest form.",
+			"ritual": [
+				{"step": "Take your current design and make three copies."},
+				{"step": "Spend 10 minutes refining each copy with a different focus: one for simplicity, one for delight, and one for accessibility."},
+				{"step": "Compare the results. What elements appear in multiple versions? These might be your essential refinements."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to polish and perfect your work. Focus on meaningful improvements rather than endless tweaks. Trust your eye for what truly needs refinement. Excellence lives in the details."},
+				{"negative": "Negative: You might be over-refining or avoiding fundamental issues. Are you using refinement as a form of procrastination? Perhaps you're polishing the wrong elements. Find the balance between improvement and completion."}
+			]
+		},
+		{
+			"number": 19,
+			"name": "Test",
+			"image": "./images/cards/19-test.png",
+			"desc": "Put your assumptions before the tribunal of reality. Let actual use illuminate true value.",
+			"ritual": [
+				{"step": "Create a test journal with three columns: \"What I'm Testing,\" \"What I Expect,\" and \"What Actually Happened.\" "},
+				{"step": "Run at least three small tests, documenting each carefully."},
+				{"step": "Pay special attention to unexpected results, noting your emotional and logical responses to surprises."}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to put ideas to the test. Trust the feedback that reality provides. Focus on learning rather than proving. Every test, whether it confirms or challenges your assumptions, brings valuable data."},
+				{"negative": "Negative: You might be avoiding testing or only testing to confirm your beliefs. Are you afraid of what you might learn? Perhaps you're testing the wrong things. Find the balance between validation and discovery."}
+			]
+		},
+		{
+			"number": 20,
+			"name": "Synthesize",
+			"image": "./images/cards/20-synthesize.png",
+			"desc": "Weave disparate threads of insight, feedback, and inspiration into a coherent whole that transcends its individual parts.",
+			"ritual": [
+				{"step": "Gather all your research, feedback, and ideas."},
+				{"step": "Spread them out and physically move them around, creating different groupings and connections. Take a photo of the arrangement."},
+				{"step": "Write each major point on a separate card."},
+				{"step": "Make another arrangement, with different groupings. What patterns or insights emerge from each view?"}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to bring different elements together into a coherent whole. Trust your ability to see patterns and connections. Focus on how different parts can strengthen each other. New insights will emerge from combination."},
+				{"negative": "Negative: You might be forcing connections or missing important patterns. Are you overwhelmed by too much information? Perhaps you're oversimplifying complex relationships. Find the balance between integration and distinction."}
+			]
+		},
+		{
+			"number": 21,
+			"name": "Share",
+			"image": "./images/cards/21-share.png",
+			"desc": "Like a tree releasing seeds to the wind, your work gains new life and meaning when it takes root in other minds.",
+			"ritual": [
+				{"step": "Practice sharing your design in three different ways: a 30-second elevator pitch, a written one-page summary, and a visual presentation. Notice which elements remain constant across all versions. These might be your design's core story. What changes between versions might reveal different audiences' needs?"}
+			],
+			"oracle": [
+				{"positive": "Positive: It's time to let others see and experience your work. Trust that sharing will lead to growth and opportunity. Focus on authentic connection rather than perfect presentation. Your work gains power through sharing."},
+				{"negative": "Negative: You might be holding back or sharing prematurely. Are you afraid of judgment? Perhaps you're seeking validation too early. Find the right time and way to share."}
+			]
+		},
+		{
+			"number": 22,
+			"name": "Iterate",
+			"image": "./images/cards/22-iterate.png",
+			"desc": "Progress isn't linear but cyclical, each turn bringing you closer to excellence through the wisdom of experience.",
+			"ritual": [
+				{"step": "Choose one element of your design to iterate on."},
+				{"step": "Create three rapid variations, each emphasizing a different aspect: function, emotion, and simplicity."},
+				{"step": "Combine the strongest elements of each into a fourth version. What survived multiple iterations? What got left behind?"}
+			],
+			"oracle": [
+				{"positive": "Positive: Trust in the power of incremental improvement. Each iteration brings you closer to excellence. Focus on learning from each version rather than seeking perfection. Progress comes through repetition with purpose."},
+				{"negative": "Negative: You might be stuck in an iteration loop or avoiding necessary changes. Are you making meaningful improvements or just changes? Perhaps you're not iterating enough. Find the balance between persistence and progress."}
+			]
+		},
+		{
+			"number": 23,
+			"name": "Polish",
+			"image": "./images/cards/23-polish.png",
+			"desc": "Transform the merely functional into the sublime through patient attention to detail, like a craftsperson working precious metal.",
+			"ritual": [
+				{"step": "Do this thing first."},
+				{"step": "Do this thing second."},
+				{"step": "Do this thing third."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to add those final touches that elevate good work to excellence. Trust your eye for quality and finish. Focus on meaningful polish that enhances rather than decorates. Excellence shows in the details."},
+				{"negative": "Negative: You might be over-polishing or avoiding fundamental issues. Are you using polish to hide problems? Perhaps you're neglecting important finishing touches. Find the balance between refinement and completion."}
+			]
+		},
+		{
+			"number": 24,
+			"name": "Communicate",
+			"image": "./images/cards/24-communicate.png",
+			"desc": "Let your vision travel intact from mind to mind, carried on the wings of clarity and purpose.",
+			"ritual": [
+				{"step": "Write your design's story in three different styles: technical documentation, user story, and emotional journey. "},
+				{"step": "Read each aloud and note which parts energize you and which parts make you hesitate. Where do you need more clarity? Where does your passion shine through? Let these insights guide your communication strategy."}
+			],
+			"oracle": [
+				{"positive": "Positive: You're ready to articulate your designs effectively. Trust your ability to bridge understanding between different audiences. Focus on clarity and authenticity rather than perfection. Your genuine enthusiasm will carry your message."},
+				{"negative": "Negative: You might be struggling to find the right voice or overcomplicated your message. Are you speaking to your audience or at them? Perhaps you're losing important details in translation. Find the balance between accessibility and depth."}
+			]
+		},
+		{
+			"number": 25,
+			"name": "Celebrate",
+			"image": "./images/cards/25-celebrate.png",
+			"desc": "Honor achievements both large and small, for in celebration we replenish the wells of creativity.",
+			"ritual": [
+				{"step": "Draw a timeline across the page from the start of your project to now."},
+				{"step": "Mark major milestones, deliverables, feedback sessions and other events."},
+				{"step": "For each event, note down one thing you’re proud of or one lesson learned."},
+				{"step": "End by writing a thank-you note to yourself from your future self, acknowledging your growth through this process."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to acknowledge achievements and growth. Celebration isn't just about the end result but the journey taken. Trust that recognizing success breeds more success. Your accomplishments deserve recognition."},
+				{"negative": "Negative: You might be minimizing achievements or celebrating prematurely. Are you uncomfortable with recognition? Perhaps you're seeking validation before completion. Find the right moment to honor your work."}
+			]
+		},
+		{
+			"number": 26,
+			"name": "Reflect",
+			"image": "./images/cards/26-reflect.png",
+			"desc": "Pause to contemplate the path you've walked, finding in both successes and struggles the seeds of future growth.",
+			"ritual": [
+				{"step": "Find a quiet space, preferably with a mirror."},
+				{"step": "Set a timer for 15 minutes."},
+				{"step": "Ask yourself three questions about your design process: \"What surprised me?\" \"What challenged me?\" and \"What changed me?\" "},
+				{"step": "Write your answers as a letter to your future self. What patterns do you see in your growth?"}
+			],
+			"oracle": [
+				{"positive": "Positive: This is a moment for deep consideration and learning. Take time to understand the journey and its lessons. Trust that reflection leads to growth. Your experiences have wisdom to share."},
+				{"negative": "Negative: You might be avoiding self-examination or getting lost in retrospection. Are you being honest with yourself? Perhaps you're dwelling too much on the past. Find the balance between reflection and forward movement."}
+			]
+		},
+		{
+			"number": 27,
+			"name": "Thank",
+			"image": "./images/cards/27-thank.png",
+			"desc": "Acknowledge the constellation of contributions that helped bring your vision to life, for no creation exists in isolation.",
+			"ritual": [
+				{"step": "Draw a circle and divide into 3 sections: my design community, my friends and family, and me."},
+				{"step": "Think of one person from your design community that recently helped you overcome an obstacle in your practice. Write a short, specific message of thanks."},
+				{"step": "Think of how one person from your friends and family supported your work and write another message of thanks."},
+				{"step": "Think of a recent mistake you made that helped you grow. Complete the circle by thanking yourself for being open to your own growth."},
+				{"step": "Send your thank you notes. You don’t need to be ceremonious. A text message will do."}
+			],
+			"oracle": [
+				{"positive": "Positive: Time to acknowledge all that supported your journey. Gratitude opens doors to new opportunities. Trust that appreciation strengthens connections. Your recognition of others builds stronger foundations."},
+				{"negative": "Negative: You might be taking support for granted or offering superficial thanks. Are you acknowledging all contributions? Perhaps you're struggling to accept help. Find authentic ways to express appreciation."}
+			]
+		},
+		{
+			"number": 28,
+			"name": "Cleanse",
+			"image": "./images/cards/28-cleanse.png",
+			"desc": "This is the card's description.",
+			"ritual": [
+				{"step": "Clear your working space. Remove work from your boards, erase whiteboards, close sketchbooks, save and close your design files, put your reference materials away, put away your pens and markers. Keep what you need, throw away what you don't. "},
+				{"step": "Wipe down your desk. Vacuum or sweep. Clean the windows."},
+				{"step": "Light incense or a scented candle. Change your diffuser's scent. Make your space as comfortable as possible."},
+				{"step": "Leave your space before returning to work. Go on a walk. Work from a different location for the day. Allow yourself time and distance so you arrive back to a clean slate."}
+			],
+			"oracle": [
+				{"positive": "Positive: It's time to clear space for new beginnings. Trust that letting go creates room for growth. Focus on completion and renewal. Cleansing old energy makes way for fresh inspiration."},
+				{"negative": "Negative: You might be holding onto what needs to be released or clearing away too hastily. Are you afraid to let go? Perhaps you're discarding valuable lessons. Find the balance between preservation and renewal."}
+			]
+		},
+		{
+			"number": 29,
+			"name": "Moon",
+			"image": "./images/cards/29-moon.png",
+			"desc": "We often don’t recognize when we’re conforming. Conformity may limit creative expression and personal growth. On the other hand, rebellions are only useful if they’re intentional. Lashing out may not help your work…or, will it?",
+			"ritual": [
+				{"step": "Revisit your design’s problem statement or brief."},
+				{"step": "In a column, write down any and all assumptions you can think of regarding the project, the design, and any work you’ve carried out. For example, if your goal is to increase visits to a website, you may have assumed (or been tasked with creating) a digital ad. If your goal is to create garments for a runway show, you may have assumed which season the collection should suit."},
+				{"step": "In another column, reverse these assumptions. You may have more than one way to reverse an assumption. For example, a digital ad may be reversed to an analog ad or a physical ad."},
+				{"step": "In a third column, explore your reversals. Note down ideas that rebel against your assumptions but still work towards your project goals. For example, an analog ad might be a billboard or radio spot. A physical ad might involve skywriting or a flash mob."},
+				{"step": "Scan your new list of rebellious ideas. Select 3 to explore further."},
+				{"step": "Take time to discuss, sketch out, mock up, or further explore these ideas before returning to your work. What can you learn from them or steal from them? How do they change how you think about your work?"}
+			],
+			"oracle": [
+				{"positive": "Positive: Your inner rebel is calling to you. You’re ready to fix something, and find your voice in the process. It might be time to question assumptions and break the rules, intentionally."},
+				{"negative": "Negative: Going against the grain can be an uphill battle. Perhaps you've been taking on too many fights. Think about your outputs, your process, your practice, and your interactions. Where can you conform? Where can you retreat? Where can you forgive?"}
+			]
+		}
+	]
+}
