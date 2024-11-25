@@ -42,7 +42,7 @@ padding: 0;
 overflow: auto;
 display:flex;
 max-width:100dvw;
-background-image: url(../images/noise.svg); }
+background-color: #fff; }
 
 img {
 display:  block;
