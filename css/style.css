@@ -29,7 +29,7 @@ font-weight: 1 999; }
 
 html {
 vertical-align: baseline;
-background-color: #fff; }
+background-color: #000; }
 
 body {
 font-family: 'Arapey Regular', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -59,15 +59,15 @@ padding: 0; }
 
 section {
 padding: 2em;
-max-width:35em;
+max-width: 35em;
 margin:0 auto; }
 
 @media (orientation: landscape) {
     body { font-size: 1.5dvw; }
     nav { height: 4.25dvw; }
     main { flex-direction: row; }
-    img.hero, div#wrapper { max-height:calc(100dvh - 3.5dvw); }
-    div#hero { max-width: calc((100dvh - 3.5dvw) * .6 ); }
+    img.hero, div#wrapper { max-height:calc(100dvh - 3.5dvw); float: right; }
+    div#hero { max-width: calc((100dvh - 3.5dvw) * .6 ); height:100dvh; }
     /* div#wrapper { overflow-y:scroll; } */
     .tooltip .tooltipText { width: 20dvw; }
 }
@@ -75,7 +75,6 @@ margin:0 auto; }
 @media (orientation: portrait) {
     body { font-size: 2dvh; }
     nav { height: 6dvh; }
-    h1 { display:none; }
     main { flex-direction: column; }
     img.hero { width:100dvw; }
     .tooltip .tooltipText { width: 20dvh; }
@@ -86,7 +85,7 @@ flex: 1;
 width: 100dvw;
 max-width: 100%;
 padding:0;
-overflow: hidden;
+margin: 0 1.5em;
 background-color: hsl(var(--primary-hs) var(--l-0));
 color: hsl(var(--primary-hs) var(--l-100)); }
 
