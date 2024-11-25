@@ -33,8 +33,7 @@ body {
 font-family: 'Arapey Regular', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 line-height: 1.25; 
 color: hsl(var(--primary-hs) var(--l-0));
-background-color: hsl(var(--primary-hs) var(--l-100));
-display: grid; }
+background-color: hsl(var(--primary-hs) var(--l-100)); }
 
 img {
 display:  block;
@@ -47,6 +46,7 @@ max-width: 35em; }
 @media (orientation: landscape) {
     body { 
         font-size: 1.5dvw;
+        display: grid;
         grid-template-columns: calc((100dvh - 4.5em) * .6) 1fr;
         grid-template-rows: 4.5em 1fr;
         justify-items: center;
@@ -69,20 +69,9 @@ max-width: 35em; }
 @media (orientation: portrait) {
     body { 
         font-size: 2dvh;
-        grid-template-columns: 1fr;
-        grid-template-rows: 3fr;
     }
-    nav {
-        grid-column: 1 / span 1;
-        grid-row: 1 / span 1 ;
-    }
-    div#hero { 
-        grid-column: 1 / span 1;
-        grid-row: 2 / span 1; }
-    div#wrapper { 
-        grid-column: 1 / span 1;
-        grid-row: 3 / span 1; }
     img.hero { width:100dvw; }
+    h1 {margin: 0;}
     .tooltip .tooltipText { width: 20dvh; }
 }
 
