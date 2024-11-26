@@ -68,7 +68,8 @@ max-width: 35em; }
 
 @media (orientation: portrait) {
     body { 
-        font-size: 2dvh;
+        font-size: 2.5dvh;
+        line-height: 1.5;
     }
     img.hero { width:100dvw; }
     h1 {margin: 0;}
