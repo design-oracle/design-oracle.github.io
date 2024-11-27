@@ -31,7 +31,7 @@ html { vertical-align: baseline; }
 
 body {
 font-family: 'Arapey Regular', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-line-height: 1.25; 
+line-height: 1.5; 
 color: hsl(var(--primary-hs) var(--l-0));
 background-color: hsl(var(--primary-hs) var(--l-100)); }
 
@@ -40,68 +40,72 @@ display:  block;
 max-width: 100dvw; }
 
 section {
-padding: 2em;
+padding: 0 2em;
 max-width: 35em; }
 
 @media (orientation: landscape) {
     body { 
-        font-size: 1.5dvw;
+        font-size: 2dvw;
         display: grid;
-        grid-template-columns: calc((100dvh - 4.5em) * .6) 1fr;
-        grid-template-rows: 4.5em 1fr;
-        justify-items: center;
+        grid-template-columns: calc((100dvh - 3em) * .67) 1fr;
+        grid-template-rows: 3em 1fr;
     }
+    
     nav {
-        grid-column: 1 / span 2;
+        grid-column: 2 / span 1;
         grid-row: 1 / span 1;
-        width: 100dvw;
     }
-    img.hero { max-height:calc(100dvh - 4.5em); }
+    
+    img.hero { height:calc(100dvh); }
+    
     div#hero { 
         grid-column: 1 / span 1;
-        grid-row: 2 / span 1; }
+        grid-row: 1 / span 2; }
+    
     div#wrapper { 
         grid-column: 2 / span 1;
         grid-row: 2 / span 1; }
+
     .tooltip .tooltipText { width: 20dvw; }
 }
 
 @media (orientation: portrait) {
     body { 
-        font-size: 2.5dvh;
-        line-height: 1.5;
-    }
+        font-size: 3dvh;
+        line-height: 1.5; }
+    
     img.hero { width:100dvw; }
-    h1 {margin: 0;}
+    
     .tooltip .tooltipText { width: 20dvh; }
 }
 
-nav {
-padding:0 2em;
-background-color: hsl(var(--primary-hs) var(--l-0));
-color: hsl(var(--primary-hs) var(--l-100)); }
+nav { padding:0 2em; }
 
-div#hero { 
- }
+h1 { margin: 0; }
 
 h2 {
 margin: 0;
-text-transform: uppercase;}
+text-transform: uppercase; }
 
 h3 {
 font-size: 2.5em; 
-line-height: 1;
-margin-top: 0;}
+margin-bottom: 0; }
 
 h4 {
 display: inline-block;
 margin: 0; }
 
+p { margin-top:0 }
+
+#lunarContainer p {
+margin-top: 1.5em;
+margin-bottom: 0;
+}
+
 .tooltip {
   font-size: .8em;
   position: relative;
-  display: inline-block;
-}
+  display: inline-block; }
 
 .tooltip .tooltipText {
   visibility: hidden;
@@ -110,9 +114,6 @@ margin: 0; }
   padding: .5em;
   border-radius: 2px;
   position: absolute;
-  z-index: 1;
-}
+  z-index: 1; }
 
-.tooltip:hover .tooltipText {
-  visibility: visible;
-}
+.tooltip:hover .tooltipText { visibility: visible; }
