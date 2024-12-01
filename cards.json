@@ -14,8 +14,8 @@
 				{"step": "When the timer ends, circle three elements that spark the strongest emotional response. These are your dream anchors – wild ideas that might contain seeds of practical innovation. Carry them with you while you work."}
 			],
 			"oracle": [
-				{"positive": "Positive: Your imagination needs room to soar. Release the constraints of \"how\" and focus on \"what if.\" This is a time for blue-sky thinking and radical possibilities. Trust that practical solutions can emerge from seemingly impossible dreams. Your subconscious is trying to tell you something – listen to those wild ideas you usually dismiss."},
-				{"negative": "Negative: You might be stuck in analysis paralysis or too focused on limitations. Are you letting past failures or current constraints clip your creative wings? Alternatively, you might be lost in dreams without grounding them in reality. Find the balance between imagination and actionable ideas."}
+				{"positive": "Positive expression: Your imagination needs room to soar. Release the constraints of \"how\" and focus on \"what if.\" This is a time for blue-sky thinking and radical possibilities. Trust that practical solutions can emerge from seemingly impossible dreams. Your subconscious is trying to tell you something – listen to those wild ideas you usually dismiss."},
+				{"negative": "Negative expression: You might be stuck in analysis paralysis or too focused on limitations. Are you letting past failures or current constraints clip your creative wings? Alternatively, you might be lost in dreams without grounding them in reality. Find the balance between imagination and actionable ideas."}
 			]
 		},
 		{
@@ -28,8 +28,8 @@
 				{"step": "Read it aloud, then close your eyes and visualize the scene of people actually using your design. What emotions do you see on their faces? What problems have been solved?"}
 			],
 			"oracle": [
-				{"positive": "Positive: It's time to create a clear vision of success. You have the ability to see beyond current circumstances to what could be. Trust your ability to envision positive change. Focus on impact rather than features – how will this really improve lives?"},
-				{"negative": "Negative:Your vision might be clouded by assumptions or biases. Are you projecting your own needs onto users? Perhaps you're struggling to see the bigger picture or have lost sight of the true purpose. Step back and realign with genuine user needs."}
+				{"positive": "Positive expression: It's time to create a clear vision of success. You have the ability to see beyond current circumstances to what could be. Trust your ability to envision positive change. Focus on impact rather than features – how will this really improve lives?"},
+				{"negative": "Negative expression: Your vision might be clouded by assumptions or biases. Are you projecting your own needs onto users? Perhaps you're struggling to see the bigger picture or have lost sight of the true purpose. Step back and realign with genuine user needs."}
 			]
 		},
 		{
@@ -44,8 +44,8 @@
 				{"step": "With the third color, circle the patterns that emerge. Summarize these patterns from each of your users’ perspectives."}
 			],
 			"oracle": [
-				{"positive": "Positive: You have the insight needed to uncover root causes. Look beneath surface-level problems to find deeper patterns. Trust your analytical abilities but stay open to unexpected diagnoses. The true problem may not be where you first look."},
-				{"negative": "Negative: You might be treating symptoms rather than causes. Are you rushing to solutions before fully understanding the problem? Be careful of confirmation bias – you might be seeing only what you expect to see."}
+				{"positive": "Positive expression: You have the insight needed to uncover root causes. Look beneath surface-level problems to find deeper patterns. Trust your analytical abilities but stay open to unexpected diagnoses. The true problem may not be where you first look."},
+				{"negative": "Negative expression: You might be treating symptoms rather than causes. Are you rushing to solutions before fully understanding the problem? Be careful of confirmation bias – you might be seeing only what you expect to see."}
 			]
 		},
 		{
@@ -62,8 +62,8 @@
 				{"step": "Finally, explain it again in just one sentence. Which version resonates most?"}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to articulate your ideas clearly. Focus on essence rather than details. Your ability to communicate complex ideas simply will be crucial now. The right words will come when you connect with your authentic understanding."},
-				{"negative": "Negative: You might be hiding behind complexity or struggling to find the right words. Are you really clear about what you're trying to say? Perhaps you're oversimplifying or overcomplicating. Find clarity within before trying to explain to others."}
+				{"positive": "Positive expression: You're ready to articulate your ideas clearly. Focus on essence rather than details. Your ability to communicate complex ideas simply will be crucial now. The right words will come when you connect with your authentic understanding."},
+				{"negative": "Negative expression: You might be hiding behind complexity or struggling to find the right words. Are you really clear about what you're trying to say? Perhaps you're oversimplifying or overcomplicating. Find clarity within before trying to explain to others."}
 			]
 		},
 		{
@@ -78,8 +78,8 @@
 				{"step": "Return to your cycle goals. Keep them in your mind as you scan your list of tasks. Strikeout anything that doesn’t directly serve them."}
 			],
 			"oracle": [
-				{"positive": "Positive: This is the time to create structure and order. You have the clarity needed to map the path forward. Trust your ability to break big goals into manageable steps. Focus on sequence and dependencies."},
-				{"negative": "Negative: You might be over-planning or resistant to necessary structure. Are you using planning as a form of procrastination? Perhaps you're too rigid in your approach. Remember that plans should serve the project, not constrain it."}
+				{"positive": "Positive expression: This is the time to create structure and order. You have the clarity needed to map the path forward. Trust your ability to break big goals into manageable steps. Focus on sequence and dependencies."},
+				{"negative": "Negative expression: You might be over-planning or resistant to necessary structure. Are you using planning as a form of procrastination? Perhaps you're too rigid in your approach. Remember that plans should serve the project, not constrain it."}
 			]
 		},
 		{
@@ -95,8 +95,8 @@
 				{"step": "Stop removing cards when it feels painful. What remains is your true priority list."}
 			],
 			"oracle": [
-				{"positive": "Positive: You have the wisdom to distinguish between what's urgent and what's important. Trust your ability to make tough choices. Focus on what truly matters rather than what's merely pressing."},
-				{"negative": "Negative: You might be avoiding difficult decisions or trying to do everything at once. Are you letting others' urgencies override your priorities? Perhaps you're too focused on short-term gains over long-term value."}
+				{"positive": "Positive expression: You have the wisdom to distinguish between what's urgent and what's important. Trust your ability to make tough choices. Focus on what truly matters rather than what's merely pressing."},
+				{"negative": "Negative expression: You might be avoiding difficult decisions or trying to do everything at once. Are you letting others' urgencies override your priorities? Perhaps you're too focused on short-term gains over long-term value."}
 			]
 		},
 		{
@@ -111,8 +111,8 @@
 				{"step": "Create a simple affirmation that bridges your past success with your current challenge. Post it where you'll see it daily."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to acknowledge and build on your strengths. You have more experience and capability than you might realize. Trust your growth and learning from past experiences. Your confidence will inspire others."},
-				{"negative": "Negative: You might be struggling with imposter syndrome or overconfidence. Are you giving yourself enough credit, or perhaps too much? Find the balance between humility and self-assurance."}
+				{"positive": "Positive expression: Time to acknowledge and build on your strengths. You have more experience and capability than you might realize. Trust your growth and learning from past experiences. Your confidence will inspire others."},
+				{"negative": "Negative expression: You might be struggling with imposter syndrome or overconfidence. Are you giving yourself enough credit, or perhaps too much? Find the balance between humility and self-assurance."}
 			]
 		},
 		{
@@ -126,8 +126,8 @@
 				{"step": "Do this thing third."}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to both find and create inspiration. Look for beauty and insight in unexpected places. Trust your ability to connect disparate ideas into something new. Your enthusiasm will energize others."},
-				{"negative": "You might be forcing inspiration or becoming too dependent on others' ideas. Are you copying rather than creating? Perhaps you're waiting for perfection before moving forward. Remember that inspiration serves creativity, not vice versa."}
+				{"positive": "Positive expression: You're ready to both find and create inspiration. Look for beauty and insight in unexpected places. Trust your ability to connect disparate ideas into something new. Your enthusiasm will energize others."},
+				{"negative": "Negative expression: You might be forcing inspiration or becoming too dependent on others' ideas. Are you copying rather than creating? Perhaps you're waiting for perfection before moving forward. Remember that inspiration serves creativity, not vice versa."}
 			]
 		},
 		{
@@ -141,8 +141,8 @@
 				{"step": "Document each interaction with a brief note about what you learned. Like a garden, relationships thrive on regular, thoughtful tending."}
 			],
 			"oracle": [
-				{"positive": "Positive: This is a time for nurturing professional relationships and community bonds. Focus on creating genuine connections rather than just networking. Trust that investing in others enriches your own practice. Your growth is intertwined with the growth of your community."},
-				{"negative": "Negative: You might be isolating yourself or maintaining only superficial professional connections. Are you taking more than you're giving in your relationships? Perhaps you're neglecting the community that could support your growth. Find balance between independence and interdependence in your practice."}
+				{"positive": "Positive expression: This is a time for nurturing professional relationships and community bonds. Focus on creating genuine connections rather than just networking. Trust that investing in others enriches your own practice. Your growth is intertwined with the growth of your community."},
+				{"negative": "Negative expression: You might be isolating yourself or maintaining only superficial professional connections. Are you taking more than you're giving in your relationships? Perhaps you're neglecting the community that could support your growth. Find balance between independence and interdependence in your practice."}
 			]
 		},
 		{
@@ -158,8 +158,8 @@
 				{"step": "Take the most promising and most outrageous ideas and try to combine them into something new."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even \"wrong\" directions can lead to right solutions. The quantity of ideas will lead to quality."},
-				{"negative": "You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
+				{"positive": "Positive expression: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even \"wrong\" directions can lead to right solutions. The quantity of ideas will lead to quality."},
+				{"negative": "Negative expression: You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
 			]
 		},
 		{
@@ -173,8 +173,8 @@
 				{"step": "Do this thing third."}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to begin a new phase or project. Trust your preparation while staying open to surprise. Focus on taking that first step rather than seeing the whole path. Your readiness is sufficient."},
-				{"negative": "Negative: You might be hesitating unnecessarily or rushing forward unprepared. Are you letting fear of the unknown hold you back? Perhaps you're ignoring important preparations. Find the right moment to begin."}
+				{"positive": "Positive expression: You're ready to begin a new phase or project. Trust your preparation while staying open to surprise. Focus on taking that first step rather than seeing the whole path. Your readiness is sufficient."},
+				{"negative": "Negative expression: You might be hesitating unnecessarily or rushing forward unprepared. Are you letting fear of the unknown hold you back? Perhaps you're ignoring important preparations. Find the right moment to begin."}
 			]
 		},
 		{
@@ -192,8 +192,8 @@
 				{"step": "At the end, spend 5 minutes discussing what you each discovered. The wisdom emerges not just from the final design, but from the dialogue between different viewpoints."}
 			],
 			"oracle": [
-				{"positive": "Positive: Someone in your orbit holds a missing piece to your design puzzle. Fresh perspectives will illuminate blind spots in your design thinking. This is a moment to embrace vulnerability – let someone else see your process, your struggles, your half-formed ideas. Trust that the friction between two minds will polish your concepts to a brighter shine."},
-				{"negative": "Negative: You may be influenced too heavily by one of your closest relationships. Be cautious of your collaborators – they may hamper your unique viewpoint. It could be time to think critically about how you engage your community."}
+				{"positive": "Positive expression: Someone in your orbit holds a missing piece to your design puzzle. Fresh perspectives will illuminate blind spots in your design thinking. This is a moment to embrace vulnerability – let someone else see your process, your struggles, your half-formed ideas. Trust that the friction between two minds will polish your concepts to a brighter shine."},
+				{"negative": "Negative expression: You may be influenced too heavily by one of your closest relationships. Be cautious of your collaborators – they may hamper your unique viewpoint. It could be time to think critically about how you engage your community."}
 			]
 		},
 
@@ -208,8 +208,8 @@
 				{"step": "Work until that piece is done, then step back and acknowledge its completion before moving on. Progress lives in these small completions."}
 			],
 			"oracle": [
-				{"positive": "Positive: This is the time for focused action. You have what you need to move from planning to doing. Trust your preparation and dive in. Small, completed actions will build momentum."},
-				{"negative": "Negative: You might be stuck in analysis paralysis or rushing through implementation. Are you avoiding the actual work? Perhaps you're sacrificing quality for speed. Find the balance between action and attention to detail."}
+				{"positive": "Positive expression: This is the time for focused action. You have what you need to move from planning to doing. Trust your preparation and dive in. Small, completed actions will build momentum."},
+				{"negative": "Negative expression: You might be stuck in analysis paralysis or rushing through implementation. Are you avoiding the actual work? Perhaps you're sacrificing quality for speed. Find the balance between action and attention to detail."}
 			]
 		},
 		{
@@ -221,8 +221,8 @@
 				{"step": "Set aside 20 minutes for purposeful play. Take your current design challenge and transform it into a game or playful exercise. What if it were a board game? A role-playing scenario? A building block challenge? Let go of practical constraints and see what insights emerge through play."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to embrace experimentation and joy in your process. Let go of seriousness and find the fun in creation. Trust that playfulness can lead to serious breakthroughs. Innovation often comes through enjoyment."},
-				{"negative": "Negative: You might be too rigid in your approach or using play as avoidance. Are you afraid of appearing unprofessional? Perhaps you're not taking necessary aspects seriously enough. Find the balance between play and purpose."}
+				{"positive": "Positive expression: Time to embrace experimentation and joy in your process. Let go of seriousness and find the fun in creation. Trust that playfulness can lead to serious breakthroughs. Innovation often comes through enjoyment."},
+				{"negative": "Negative expression: You might be too rigid in your approach or using play as avoidance. Are you afraid of appearing unprofessional? Perhaps you're not taking necessary aspects seriously enough. Find the balance between play and purpose."}
 			]
 		},
 		{
@@ -237,8 +237,8 @@
 				{"step": "For items in \"What I Need to Know\", think of ways you can find out."}
 			],
 			"oracle": [
-				{"positive": "Positive: It's time to uncover hidden truths or assumptions. You have the courage to look beneath the surface. Trust your instincts about what needs to be examined. Transparency will lead to better decisions."},
-				{"negative": "Negative: You might be hiding from uncomfortable truths or revealing too much too soon. Are you making assumptions without evidence? Perhaps you're being unnecessarily secretive. Find the right balance of transparency."}
+				{"positive": "Positive expression: It's time to uncover hidden truths or assumptions. You have the courage to look beneath the surface. Trust your instincts about what needs to be examined. Transparency will lead to better decisions."},
+				{"negative": "Negative expression: You might be hiding from uncomfortable truths or revealing too much too soon. Are you making assumptions without evidence? Perhaps you're being unnecessarily secretive. Find the right balance of transparency."}
 			]
 		},
 		{
@@ -252,8 +252,8 @@
 				{"step": "Then step back into your own perspective and write a response to each. What patterns emerge from this dialogue?"}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to receive and give constructive feedback. Look for the wisdom in criticism while maintaining your vision. Trust your ability to separate helpful insights from unhelpful judgments."},
-				{"negative": "Negative: You might be too defensive about feedback or too harsh in your judgments. Are you taking criticism personally? Perhaps you're focusing on flaws without seeing strengths. Find balance in your assessments."}
+				{"positive": "Positive expression: You're ready to receive and give constructive feedback. Look for the wisdom in criticism while maintaining your vision. Trust your ability to separate helpful insights from unhelpful judgments."},
+				{"negative": "Negative expression: You might be too defensive about feedback or too harsh in your judgments. Are you taking criticism personally? Perhaps you're focusing on flaws without seeing strengths. Find balance in your assessments."}
 			]
 		},
 		{
@@ -270,8 +270,8 @@
 				{"step": "Follow your confidence markers and decide which option is the most desirable, feasible, and usable."}
 			],
 			"oracle": [
-				{"positive": "Positive: Trust your ability to make clear choices. You have both the information and intuition needed. Focus on progress over perfection. Some decisions will reveal their wisdom only in hindsight."},
-				{"negative": "Negative: You might be trapped in indecision or making choices too hastily. Are you letting fear drive your decisions? Perhaps you're ignoring important factors. Find the balance between analysis and action."}
+				{"positive": "Positive expression: Trust your ability to make clear choices. You have both the information and intuition needed. Focus on progress over perfection. Some decisions will reveal their wisdom only in hindsight."},
+				{"negative": "Negative expression: You might be trapped in indecision or making choices too hastily. Are you letting fear drive your decisions? Perhaps you're ignoring important factors. Find the balance between analysis and action."}
 			]
 		},
 		{
@@ -285,8 +285,8 @@
 				{"step": "Compare the results. What elements appear in multiple versions? These might be your essential refinements."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to polish and perfect your work. Focus on meaningful improvements rather than endless tweaks. Trust your eye for what truly needs refinement. Excellence lives in the details."},
-				{"negative": "Negative: You might be over-refining or avoiding fundamental issues. Are you using refinement as a form of procrastination? Perhaps you're polishing the wrong elements. Find the balance between improvement and completion."}
+				{"positive": "Positive expression: Time to polish and perfect your work. Focus on meaningful improvements rather than endless tweaks. Trust your eye for what truly needs refinement. Excellence lives in the details."},
+				{"negative": "Negative expression: You might be over-refining or avoiding fundamental issues. Are you using refinement as a form of procrastination? Perhaps you're polishing the wrong elements. Find the balance between improvement and completion."}
 			]
 		},
 		{
@@ -300,8 +300,8 @@
 				{"step": "Pay special attention to unexpected results, noting your emotional and logical responses to surprises."}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to put ideas to the test. Trust the feedback that reality provides. Focus on learning rather than proving. Every test, whether it confirms or challenges your assumptions, brings valuable data."},
-				{"negative": "Negative: You might be avoiding testing or only testing to confirm your beliefs. Are you afraid of what you might learn? Perhaps you're testing the wrong things. Find the balance between validation and discovery."}
+				{"positive": "Positive expression: You're ready to put ideas to the test. Trust the feedback that reality provides. Focus on learning rather than proving. Every test, whether it confirms or challenges your assumptions, brings valuable data."},
+				{"negative": "Negative expression: You might be avoiding testing or only testing to confirm your beliefs. Are you afraid of what you might learn? Perhaps you're testing the wrong things. Find the balance between validation and discovery."}
 			]
 		},
 		{
@@ -316,8 +316,8 @@
 				{"step": "Make another arrangement, with different groupings. What patterns or insights emerge from each view?"}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to bring different elements together into a coherent whole. Trust your ability to see patterns and connections. Focus on how different parts can strengthen each other. New insights will emerge from combination."},
-				{"negative": "Negative: You might be forcing connections or missing important patterns. Are you overwhelmed by too much information? Perhaps you're oversimplifying complex relationships. Find the balance between integration and distinction."}
+				{"positive": "Positive expression: Time to bring different elements together into a coherent whole. Trust your ability to see patterns and connections. Focus on how different parts can strengthen each other. New insights will emerge from combination."},
+				{"negative": "Negative expression: You might be forcing connections or missing important patterns. Are you overwhelmed by too much information? Perhaps you're oversimplifying complex relationships. Find the balance between integration and distinction."}
 			]
 		},
 		{
@@ -329,8 +329,8 @@
 				{"step": "Practice sharing your design in three different ways: a 30-second elevator pitch, a written one-page summary, and a visual presentation. Notice which elements remain constant across all versions. These might be your design's core story. What changes between versions might reveal different audiences' needs?"}
 			],
 			"oracle": [
-				{"positive": "Positive: It's time to let others see and experience your work. Trust that sharing will lead to growth and opportunity. Focus on authentic connection rather than perfect presentation. Your work gains power through sharing."},
-				{"negative": "Negative: You might be holding back or sharing prematurely. Are you afraid of judgment? Perhaps you're seeking validation too early. Find the right time and way to share."}
+				{"positive": "Positive expression: It's time to let others see and experience your work. Trust that sharing will lead to growth and opportunity. Focus on authentic connection rather than perfect presentation. Your work gains power through sharing."},
+				{"negative": "Negative expression: You might be holding back or sharing prematurely. Are you afraid of judgment? Perhaps you're seeking validation too early. Find the right time and way to share."}
 			]
 		},
 		{
@@ -344,8 +344,8 @@
 				{"step": "Combine the strongest elements of each into a fourth version. What survived multiple iterations? What got left behind?"}
 			],
 			"oracle": [
-				{"positive": "Positive: Trust in the power of incremental improvement. Each iteration brings you closer to excellence. Focus on learning from each version rather than seeking perfection. Progress comes through repetition with purpose."},
-				{"negative": "Negative: You might be stuck in an iteration loop or avoiding necessary changes. Are you making meaningful improvements or just changes? Perhaps you're not iterating enough. Find the balance between persistence and progress."}
+				{"positive": "Positive expression: Trust in the power of incremental improvement. Each iteration brings you closer to excellence. Focus on learning from each version rather than seeking perfection. Progress comes through repetition with purpose."},
+				{"negative": "Negative expression: You might be stuck in an iteration loop or avoiding necessary changes. Are you making meaningful improvements or just changes? Perhaps you're not iterating enough. Find the balance between persistence and progress."}
 			]
 		},
 		{
@@ -359,8 +359,8 @@
 				{"step": "Do this thing third."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to add those final touches that elevate good work to excellence. Trust your eye for quality and finish. Focus on meaningful polish that enhances rather than decorates. Excellence shows in the details."},
-				{"negative": "Negative: You might be over-polishing or avoiding fundamental issues. Are you using polish to hide problems? Perhaps you're neglecting important finishing touches. Find the balance between refinement and completion."}
+				{"positive": "Positive expression: Time to add those final touches that elevate good work to excellence. Trust your eye for quality and finish. Focus on meaningful polish that enhances rather than decorates. Excellence shows in the details."},
+				{"negative": "Negative expression: You might be over-polishing or avoiding fundamental issues. Are you using polish to hide problems? Perhaps you're neglecting important finishing touches. Find the balance between refinement and completion."}
 			]
 		},
 		{
@@ -373,8 +373,8 @@
 				{"step": "Read each aloud and note which parts energize you and which parts make you hesitate. Where do you need more clarity? Where does your passion shine through? Let these insights guide your communication strategy."}
 			],
 			"oracle": [
-				{"positive": "Positive: You're ready to articulate your designs effectively. Trust your ability to bridge understanding between different audiences. Focus on clarity and authenticity rather than perfection. Your genuine enthusiasm will carry your message."},
-				{"negative": "Negative: You might be struggling to find the right voice or overcomplicated your message. Are you speaking to your audience or at them? Perhaps you're losing important details in translation. Find the balance between accessibility and depth."}
+				{"positive": "Positive expression: You're ready to articulate your designs effectively. Trust your ability to bridge understanding between different audiences. Focus on clarity and authenticity rather than perfection. Your genuine enthusiasm will carry your message."},
+				{"negative": "Negative expression: You might be struggling to find the right voice or overcomplicated your message. Are you speaking to your audience or at them? Perhaps you're losing important details in translation. Find the balance between accessibility and depth."}
 			]
 		},
 		{
@@ -389,8 +389,8 @@
 				{"step": "End by writing a thank-you note to yourself from your future self, acknowledging your growth through this process."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to acknowledge achievements and growth. Celebration isn't just about the end result but the journey taken. Trust that recognizing success breeds more success. Your accomplishments deserve recognition."},
-				{"negative": "Negative: You might be minimizing achievements or celebrating prematurely. Are you uncomfortable with recognition? Perhaps you're seeking validation before completion. Find the right moment to honor your work."}
+				{"positive": "Positive expression: Time to acknowledge achievements and growth. Celebration isn't just about the end result but the journey taken. Trust that recognizing success breeds more success. Your accomplishments deserve recognition."},
+				{"negative": "Negative expression: You might be minimizing achievements or celebrating prematurely. Are you uncomfortable with recognition? Perhaps you're seeking validation before completion. Find the right moment to honor your work."}
 			]
 		},
 		{
@@ -405,8 +405,8 @@
 				{"step": "Write your answers as a letter to your future self. What patterns do you see in your growth?"}
 			],
 			"oracle": [
-				{"positive": "Positive: This is a moment for deep consideration and learning. Take time to understand the journey and its lessons. Trust that reflection leads to growth. Your experiences have wisdom to share."},
-				{"negative": "Negative: You might be avoiding self-examination or getting lost in retrospection. Are you being honest with yourself? Perhaps you're dwelling too much on the past. Find the balance between reflection and forward movement."}
+				{"positive": "Positive expression: This is a moment for deep consideration and learning. Take time to understand the journey and its lessons. Trust that reflection leads to growth. Your experiences have wisdom to share."},
+				{"negative": "Negative expression: You might be avoiding self-examination or getting lost in retrospection. Are you being honest with yourself? Perhaps you're dwelling too much on the past. Find the balance between reflection and forward movement."}
 			]
 		},
 		{
@@ -422,8 +422,8 @@
 				{"step": "Send your thank you notes. You don’t need to be ceremonious. A text message will do."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to acknowledge all that supported your journey. Gratitude opens doors to new opportunities. Trust that appreciation strengthens connections. Your recognition of others builds stronger foundations."},
-				{"negative": "Negative: You might be taking support for granted or offering superficial thanks. Are you acknowledging all contributions? Perhaps you're struggling to accept help. Find authentic ways to express appreciation."}
+				{"positive": "Positive expression: Time to acknowledge all that supported your journey. Gratitude opens doors to new opportunities. Trust that appreciation strengthens connections. Your recognition of others builds stronger foundations."},
+				{"negative": "Negative expression: You might be taking support for granted or offering superficial thanks. Are you acknowledging all contributions? Perhaps you're struggling to accept help. Find authentic ways to express appreciation."}
 			]
 		},
 		{
@@ -438,8 +438,8 @@
 				{"step": "Leave your space before returning to work. Go on a walk. Work from a different location for the day. Allow yourself time and distance so you arrive back to a clean slate."}
 			],
 			"oracle": [
-				{"positive": "Positive: It's time to clear space for new beginnings. Trust that letting go creates room for growth. Focus on completion and renewal. Cleansing old energy makes way for fresh inspiration."},
-				{"negative": "Negative: You might be holding onto what needs to be released or clearing away too hastily. Are you afraid to let go? Perhaps you're discarding valuable lessons. Find the balance between preservation and renewal."}
+				{"positive": "Positive expression: It's time to clear space for new beginnings. Trust that letting go creates room for growth. Focus on completion and renewal. Cleansing old energy makes way for fresh inspiration."},
+				{"negative": "Negative expression: You might be holding onto what needs to be released or clearing away too hastily. Are you afraid to let go? Perhaps you're discarding valuable lessons. Find the balance between preservation and renewal."}
 			]
 		},
 		{
@@ -456,8 +456,8 @@
 				{"step": "Take time to discuss, sketch out, mock up, or further explore these ideas before returning to your work. What can you learn from them or steal from them? How do they change how you think about your work?"}
 			],
 			"oracle": [
-				{"positive": "Positive: Your inner rebel is calling to you. You’re ready to fix something, and find your voice in the process. It might be time to question assumptions and break the rules, intentionally."},
-				{"negative": "Negative: Going against the grain can be an uphill battle. Perhaps you've been taking on too many fights. Think about your outputs, your process, your practice, and your interactions. Where can you conform? Where can you retreat? Where can you forgive?"}
+				{"positive": "Positive expression: Your inner rebel is calling to you. You’re ready to fix something, and find your voice in the process. It might be time to question assumptions and break the rules, intentionally."},
+				{"negative": "Negative expression: Going against the grain can be an uphill battle. Perhaps you've been taking on too many fights. Think about your outputs, your process, your practice, and your interactions. Where can you conform? Where can you retreat? Where can you forgive?"}
 			]
 		}
 	]
