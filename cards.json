@@ -8,13 +8,13 @@
 			"ritual": [
 				{"step": "Find a quiet space with a blank notebook."},
 				{"step": "Start a timer for 15 minutes."},
-				{"step": "Begin by writing &#x0022;In my wildest dreams, this project would...&#x0022;"},
+				{"step": "Begin by writing \"In my wildest dreams, this project would...\""},
 				{"step": "Let your mind wander beyond constraints of time, technology, or feasibility."},
 				{"step": "Draw or write whatever comes, no matter how impossible it seems."},
 				{"step": "When the timer ends, circle three elements that spark the strongest emotional response. These are your dream anchors – wild ideas that might contain seeds of practical innovation. Carry them with you while you work."}
 			],
 			"oracle": [
-				{"positive": "Positive: Your imagination needs room to soar. Release the constraints of &#x0022;how&#x0022; and focus on &#x0022;what if.&#x0022; This is a time for blue-sky thinking and radical possibilities. Trust that practical solutions can emerge from seemingly impossible dreams. Your subconscious is trying to tell you something – listen to those wild ideas you usually dismiss."},
+				{"positive": "Positive: Your imagination needs room to soar. Release the constraints of \"how\" and focus on \"what if.\" This is a time for blue-sky thinking and radical possibilities. Trust that practical solutions can emerge from seemingly impossible dreams. Your subconscious is trying to tell you something – listen to those wild ideas you usually dismiss."},
 				{"negative": "Negative: You might be stuck in analysis paralysis or too focused on limitations. Are you letting past failures or current constraints clip your creative wings? Alternatively, you might be lost in dreams without grounding them in reality. Find the balance between imagination and actionable ideas."}
 			]
 		},
@@ -89,7 +89,7 @@
 			"desc": "Not all paths can be walked at once. Discern which lights must be followed first in the constellation of possibilities before you.",
 			"ritual": [
 				{"step": "Write each task or feature for your design on a separate card."},
-				{"step": "Create a grid with &#x0022;Impact&#x0022; on one axis and &#x0022;Effort&#x0022; on the other."},
+				{"step": "Create a grid with \"Impact\" on one axis and \"Effort\" on the other."},
 				{"step": "Place each card in the grid."},
 				{"step": "Now, remove one card at a time, starting with low impact/high effort."},
 				{"step": "Stop removing cards when it feels painful. What remains is your true priority list."}
@@ -106,8 +106,8 @@
 			"desc": "Stand firm in your understanding while remaining open to new insights. Let affrmation crystallize what feels like scattered knowledge into a confident direction.",
 			"ritual": [
 				{"step": "Take a moment to write down three specific successes from your past design work."},
-				{"step": "For each one, write: &#x0022;I succeeded then because...&#x0022;"},
-				{"step": "Now write: &#x0022;I will succeed now because...&#x0022;"},
+				{"step": "For each one, write: \"I succeeded then because...\""},
+				{"step": "Now write: \"I will succeed now because...\""},
 				{"step": "Create a simple affirmation that bridges your past success with your current challenge. Post it where you'll see it daily."}
 			],
 			"oracle": [
@@ -158,7 +158,7 @@
 				{"step": "Take the most promising and most outrageous ideas and try to combine them into something new."}
 			],
 			"oracle": [
-				{"positive": "Positive: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even &#x0022;wrong&#x0022; directions can lead to right solutions. The quantity of ideas will lead to quality."},
+				{"positive": "Positive: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even \"wrong\" directions can lead to right solutions. The quantity of ideas will lead to quality."},
 				{"negative": "You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
 			]
 		},
@@ -231,10 +231,10 @@
 			"image": "./images/cards/15-reveal.png",
 			"desc": "Like the moon emerging from clouds, insights that were always present but obscured now shine forth with unmistakable clarity.",
 			"ritual": [
-				{"step": "Create a board with three columns: &#x0022;What I Know,&#x0022; &#x0022;What I Think I Know,&#x0022; and &#x0022;What I Need to Know.&#x0022; "},
+				{"step": "Create a board with three columns: \"What I Know,\" \"What I Think I Know,\" and \"What I Need to Know.\" "},
 				{"step": "Quickly write down 3 or 5 cards for each column, thinking about your design problem."},
-				{"step": "Then, take one item from &#x0022;What I Think I Know&#x0022; and challenge it with three probing questions. What gets revealed?"},
-				{"step": "For items in &#x0022;What I Need to Know&#x0022;, think of ways you can find out."}
+				{"step": "Then, take one item from \"What I Think I Know\" and challenge it with three probing questions. What gets revealed?"},
+				{"step": "For items in \"What I Need to Know\", think of ways you can find out."}
 			],
 			"oracle": [
 				{"positive": "Positive: It's time to uncover hidden truths or assumptions. You have the courage to look beneath the surface. Trust your instincts about what needs to be examined. Transparency will lead to better decisions."},
@@ -247,7 +247,7 @@
 			"image": "./images/cards/16-critique.png",
 			"desc": "Growth comes through careful questioning. The strongest designs are forged in the furnace of constructive feedback.",
 			"ritual": [
-				{"step": "Write three different personas on separate cards: &#x0022;The Enthusiast,&#x0022; &#x0022;The Skeptic,&#x0022; and &#x0022;The Deviant.&#x0022; "},
+				{"step": "Write three different personas on separate cards: \"The Enthusiast,\" \"The Skeptic,\" and \"The Deviant.\" "},
 				{"step": "Review your design through each perspective for exactly three minutes. Write down what each persona says, does, thinks, and feels."},
 				{"step": "Then step back into your own perspective and write a response to each. What patterns emerge from this dialogue?"}
 			],
