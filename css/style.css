@@ -15,6 +15,7 @@
         --l-80: 20%;
         --l-100: 5%;
         --l-link: 75%; }
+    img { filter: brightness(.85) contrast(1.1); }
 }
 
 @font-face {
@@ -66,7 +67,10 @@ nav { padding:0 2em; }
     
     div#hero { 
         grid-column: 1 / span 1;
-        grid-row: 1 / span 2; }
+        grid-row: 1 / span 2;
+        position: sticky;
+        top: 0;
+        height: 100vh; }
     
     div#wrapper { 
         grid-column: 2 / span 1;
@@ -81,6 +85,7 @@ nav { padding:0 2em; }
         line-height: 1.5; }
     
     img.hero { width:100dvw; }
+
     
     .tooltip .tooltipText { width: 20dvh; }
 }
@@ -103,6 +108,8 @@ display: inline-block;
 margin: 0; }
 
 p, ol { margin-top:0 }
+
+a { color: hsl(var(--link-hs) var(--l-link)); }
 
 #lunarContainer p {
 margin-top: 1.5em;
