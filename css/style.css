@@ -43,17 +43,23 @@ section {
 padding: 0 2em;
 max-width: 35em; }
 
+nav { padding:0 2em; }
+
 @media (orientation: landscape) {
     body { 
         font-size: 2dvw;
         display: grid;
-        grid-template-columns: calc((100dvh - 3em) * .67) 1fr;
-        grid-template-rows: 3em 1fr;
+        grid-template-columns: calc((100dvh - 2.25em) * .67) 1fr;
+        grid-template-rows: 2.25em 1fr;
     }
     
     nav {
         grid-column: 2 / span 1;
         grid-row: 1 / span 1;
+        padding: 0 3em; }
+
+    section {
+        padding: 0 3em;
     }
     
     img.hero { height:calc(100dvh); }
@@ -79,9 +85,10 @@ max-width: 35em; }
     .tooltip .tooltipText { width: 20dvh; }
 }
 
-nav { padding:0 2em; }
 
-h1 { margin: 0; }
+h1 { 
+font-size: 1.5em;
+margin: 0; }
 
 h2 {
 margin: 0;
@@ -89,13 +96,13 @@ text-transform: uppercase; }
 
 h3 {
 font-size: 2.5em; 
-margin-bottom: 0; }
+margin: .5em 0 0 0 }
 
 h4 {
 display: inline-block;
 margin: 0; }
 
-p { margin-top:0 }
+p, ol { margin-top:0 }
 
 #lunarContainer p {
 margin-top: 1.5em;
