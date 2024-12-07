@@ -121,9 +121,10 @@
 			"image": "./images/cards/8-inspire.png",
 			"desc": "Fan the flames of possibility until they catch in other minds. True inspiration spreads like wildfire through the forest of imagination.",
 			"ritual": [
-				{"step": "Do this thing first."},
-				{"step": "Do this thing second."},
-				{"step": "Do this thing third."}
+				{"step": "Go on a walk. Choose five diverse objects from your environment that feel meaningful."},
+				{"step": "For each object, spend five minutes writing a stream of consciousness about what memories, emotions, or associations it evokes."},
+				{"step": "After completing your writings, look for unexpected connections to your current design problem."},
+				{"step": "Select one surprising insight and sketch three design concepts that could emerge from this unexpected intersection. Choose the concept that feels most generative, not necessarily the most logical."}
 			],
 			"oracle": [
 				{"positive": "Positive expression: You're ready to both find and create inspiration. Look for beauty and insight in unexpected places. Trust your ability to connect disparate ideas into something new. Your enthusiasm will energize others."},
