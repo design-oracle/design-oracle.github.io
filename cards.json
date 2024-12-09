@@ -155,7 +155,7 @@
 				{"step": "Choose one aspect of your design problem."},
 				{"step": "Set a timer for one minute and sketch or write one possible solution."},
 				{"step": "Reset the timer and create another completely different solution."},
-				{"step": "Repeat five times without a break"},
+				{"step": "Repeat five times without a break."},
 				{"step": "Take the most promising and most outrageous ideas and try to combine them into something new."}
 			],
 			"oracle": [
