@@ -169,9 +169,11 @@
 			"image": "./images/cards/11-embark.png",
 			"desc": "Trust that while the destination may be clear, the waters ahead will reveal their own wisdom in time. Begin with courage.",
 			"ritual": [
-				{"step": "Do this thing first."},
-				{"step": "Do this thing second."},
-				{"step": "Do this thing third."}
+				{"step": "Think about your design goals. Hold them in your mind."},
+				{"step": "Write down three tools you'll need to complete your design ambitions."},
+				{"step": "Then, identify one object that makes you feel confident. This could be physical or psychological."},
+				{"step": "Next, identify one object that represents the unknown."},
+				{"step": "his is your design starter kit. Before beginning each work session, unpack your kit mindfully, acknowledging both your preparation and openness to discovery."}
 			],
 			"oracle": [
 				{"positive": "Positive expression: You're ready to begin a new phase or project. Trust your preparation while staying open to surprise. Focus on taking that first step rather than seeing the whole path. Your readiness is sufficient."},
@@ -355,9 +357,10 @@
 			"image": "./images/cards/23-polish.png",
 			"desc": "Transform the merely functional into the sublime through patient attention to detail, like a craftsperson working precious metal.",
 			"ritual": [
-				{"step": "Do this thing first."},
-				{"step": "Do this thing second."},
-				{"step": "Do this thing third."}
+				{"step": "Create a multi-layered polish approach. First, ask \"what’s essential?\" Identify the core functional requirements that must be flawless. Try to remove what doesn’t serve the core purpose."},
+				{"step": "Next, ask \"what transforms a good experience into a great one?\" Push elements that elevate user experience beyond basic functionality."},
+				{"step": "Finally, ask, \"what creates an emotional connection?\" Think of your brand, your voice, your design language."},
+				{"step": "After each pass, step back and ask: \"Does this serve the core purpose of the design?\""}
 			],
 			"oracle": [
 				{"positive": "Positive expression: Time to add those final touches that elevate good work to excellence. Trust your eye for quality and finish. Focus on meaningful polish that enhances rather than decorates. Excellence shows in the details."},
