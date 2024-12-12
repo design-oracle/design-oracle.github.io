@@ -18,8 +18,6 @@ const oracle2 = document.createElement("p");
 const lunarContainer = document.querySelector("#lunarContainer");
 const lunarDate = document.createElement("p");
 
-console.log(cardNumeral);
-
 if (cardNumeral <= 3) {
   lunarDate.textContent = "🌑 Lunar day " + cardNumeral;
 }
