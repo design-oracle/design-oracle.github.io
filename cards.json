@@ -29,7 +29,7 @@
 			],
 			"oracle": [
 				{"positive": "Positive: It's time to create a clear vision of success. You have the ability to see beyond current circumstances to what could be. Trust your ability to envision positive change. Focus on impact rather than features – how will this really improve lives?"},
-				{"negative": "Negative:Your vision might be clouded by assumptions or biases. Are you projecting your own needs onto users? Perhaps you're struggling to see the bigger picture or have lost sight of the true purpose. Step back and realign with genuine user needs."}
+				{"negative": "Negative: Your vision might be clouded by assumptions or biases. Are you projecting your own needs onto users? Perhaps you're struggling to see the bigger picture or have lost sight of the true purpose. Step back and realign with genuine user needs."}
 			]
 		},
 		{
@@ -156,12 +156,12 @@
 				{"step": "Choose one aspect of your design problem."},
 				{"step": "Set a timer for one minute and sketch or write one possible solution."},
 				{"step": "Reset the timer and create another completely different solution."},
-				{"step": "Repeat five times without a break"},
+				{"step": "Repeat five times without a break."},
 				{"step": "Take the most promising and most outrageous ideas and try to combine them into something new."}
 			],
 			"oracle": [
 				{"positive": "Positive: Time to explore multiple possibilities without judgment. Let your mind wander down unexpected paths. Trust that even \"wrong\" directions can lead to right solutions. The quantity of ideas will lead to quality."},
-				{"negative": "You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
+				{"negative": "Negative: You might be stuck in conventional thinking or generating variations rather than true alternatives. Are you afraid of being wrong? Perhaps you're diverging without purpose. Find the balance between exploration and focus."}
 			]
 		},
 		{
@@ -170,9 +170,11 @@
 			"image": "./images/cards/11-embark.png",
 			"desc": "Trust that while the destination may be clear, the waters ahead will reveal their own wisdom in time. Begin with courage.",
 			"ritual": [
-				{"step": "Do this thing first."},
-				{"step": "Do this thing second."},
-				{"step": "Do this thing third."}
+				{"step": "Think about your design goals. Hold them in your mind."},
+				{"step": "Write down three tools you'll need to complete your design ambitions."},
+				{"step": "Then, identify one object that makes you feel confident. This could be physical or psychological."},
+				{"step": "Next, identify one object that represents the unknown."},
+				{"step": "This is your design starter kit. Before beginning each work session, unpack your kit mindfully, acknowledging both your preparation and openness to discovery."}
 			],
 			"oracle": [
 				{"positive": "Positive: You're ready to begin a new phase or project. Trust your preparation while staying open to surprise. Focus on taking that first step rather than seeing the whole path. Your readiness is sufficient."},
@@ -331,7 +333,10 @@
 			"image": "./images/cards/21-share.png",
 			"desc": "Like a tree releasing seeds to the wind, your work gains new life and meaning when it takes root in other minds.",
 			"ritual": [
-				{"step": "Practice sharing your design in three different ways: a 30-second elevator pitch, a written one-page summary, and a visual presentation. Notice which elements remain constant across all versions. These might be your design's core story. What changes between versions might reveal different audiences' needs?"}
+				{"step": "Practice sharing your design in three different ways. First, a 30-second elevator pitch."},
+				{"step": "Next, a written one-page summary."},
+				{"step": "Finally, a visual – like a diagram, infographic, or illustration."},
+				{"step": "Notice which elements remain constant across all versions. These might be your design's core story."}
 			],
 			"oracle": [
 				{"positive": "Positive: It's time to let others see and experience your work. Trust that sharing will lead to growth and opportunity. Focus on authentic connection rather than perfect presentation. Your work gains power through sharing."},
@@ -359,9 +364,10 @@
 			"image": "./images/cards/23-polish.png",
 			"desc": "Transform the merely functional into the sublime through patient attention to detail, like a craftsperson working precious metal.",
 			"ritual": [
-				{"step": "Do this thing first."},
-				{"step": "Do this thing second."},
-				{"step": "Do this thing third."}
+				{"step": "Create a multi-layered polish approach. First, ask \"what’s essential?\" Identify the core functional requirements that must be flawless. Try to remove what doesn’t serve the core purpose."},
+				{"step": "Next, ask “what transforms a good experience into a great one?” Push elements that elevate user experience beyond basic functionality. "},
+				{"step": "Finally, ask, “what creates an emotional connection?” Think of your brand, your voice, your design language."},
+				{"step": "After each pass, step back and ask: \"Does this serve the core purpose of the design?\""}
 			],
 			"oracle": [
 				{"positive": "Positive: Time to add those final touches that elevate good work to excellence. Trust your eye for quality and finish. Focus on meaningful polish that enhances rather than decorates. Excellence shows in the details."},
@@ -374,7 +380,7 @@
 			"image": "./images/cards/24-communicate.png",
 			"desc": "Let your vision travel intact from mind to mind, carried on the wings of clarity and purpose.",
 			"ritual": [
-				{"step": "Write your design's story in three different styles: technical documentation, user story, and emotional journey. "},
+				{"step": "Write your design's story in three different styles: as technical documentation, as a user story/epic, and as a fairy tale (\"Once upon a time...\")."},
 				{"step": "Read each aloud and note which parts energize you and which parts make you hesitate. Where do you need more clarity? Where does your passion shine through? Let these insights guide your communication strategy."}
 			],
 			"oracle": [
@@ -435,7 +441,7 @@
 			"number": 28,
 			"name": "Cleanse",
 			"image": "./images/cards/28-cleanse.png",
-			"desc": "This is the card's description.",
+			"desc": "Release what no longer serves, like clearing a canvas for a new masterpiece. In emptiness, potential awakens.",
 			"ritual": [
 				{"step": "Clear your working space. Remove work from your boards, erase whiteboards, close sketchbooks, save and close your design files, put your reference materials away, put away your pens and markers. Keep what you need, throw away what you don't. "},
 				{"step": "Wipe down your desk. Vacuum or sweep. Clean the windows."},
