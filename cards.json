@@ -184,7 +184,7 @@
 		{
 			"number": 12,
 			"name": "Pair",
-			"image": "./images/cards/11-pair.png",
+			"image": "./images/cards/12-pair.png",
 			"desc": "Two brains can be better than one. Partnerships can forge new ideas. There’s a reason why good things come in pairs.",
 			"ritual": [
 				{"step": "Set a time to meet with a fellow designer for an hour or two. Each brings a problem they’re currently working on."},
