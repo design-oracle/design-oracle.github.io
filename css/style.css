@@ -74,7 +74,7 @@ nav { padding:0 2em; }
     
     div#wrapper { 
         grid-column: 2 / span 1;
-        grid-row: 2 / span 1; }
+        grid-row: 1 / span 2; }
 
     .tooltip .tooltipText { width: 20dvw; }
 }
