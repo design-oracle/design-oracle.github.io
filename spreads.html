@@ -1,0 +1,712 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="css/normalize.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link
+            rel="icon"
+            href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌗</text></svg>"
+        />
+        <title>Spreads | Design Oracle</title>
+    </head>
+    <body>
+        <div id="hero"></div>
+        <div id="wrapper">
+            <section>
+                <div id="cardContent">
+                    <div id="lunarContainer"></div>
+                    <h2>Spreads</h2>
+                </div>
+
+                <div class="spread-tabs" role="tablist">
+                    <button class="tab-btn active" role="tab" data-tab="soa">
+                        Situation / obstacle / action
+                    </button>
+                    <button class="tab-btn" role="tab" data-tab="phase">
+                        Phase check
+                    </button>
+                    <button class="tab-btn" role="tab" data-tab="bda">
+                        Before / during / after
+                    </button>
+                    <button class="tab-btn" role="tab" data-tab="brief">
+                        The unspoken brief
+                    </button>
+                </div>
+
+                <!-- ── Spread 1: Situation / Obstacle / Action ── -->
+                <div class="spread" id="spread-soa">
+                    <h3>Situation / obstacle / action</h3>
+                    <p class="spread-meta">
+                        Three cards. For when you're stuck on a specific project
+                        and need to move.
+                    </p>
+                    <p>
+                        Most design problems don't announce themselves cleanly.
+                        You know something isn't working, but whether it's the
+                        brief, the approach, or you — that's harder to say. This
+                        spread pulls the question apart into three pieces you
+                        can work with.
+                    </p>
+                    <h4>How to draw</h4>
+                    <p>
+                        Shuffle the deck while holding your project in mind.
+                        Draw three cards and lay them left to right:
+                    </p>
+                    <ol>
+                        <li>
+                            <strong>Situation</strong> — the practice the work
+                            is currently asking of you.
+                        </li>
+                        <li>
+                            <strong>Obstacle</strong> — the practice that's
+                            getting in the way, or the one you're avoiding.
+                        </li>
+                        <li>
+                            <strong>Action</strong> — the practice to take up
+                            next.
+                        </li>
+                    </ol>
+                    <div class="spread-positions" id="soa-positions">
+                        <div
+                            class="card-slot"
+                            data-spread="soa"
+                            data-index="0"
+                            data-position="Situation"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Situation</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="soa"
+                            data-index="1"
+                            data-position="Obstacle"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Obstacle</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="soa"
+                            data-index="2"
+                            data-position="Action"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Action</div>
+                            <div class="card-reading"></div>
+                        </div>
+                    </div>
+                    <div class="spread-controls">
+                        <button
+                            class="spread-btn btn-draw-all"
+                            data-spread="soa"
+                        >
+                            Draw all
+                        </button>
+                        <button
+                            class="spread-btn btn-reset"
+                            data-spread="soa"
+                            hidden
+                        >
+                            Draw again
+                        </button>
+                    </div>
+                    <h4>How to read</h4>
+                    <p>
+                        Read all three together before reading any one closely.
+                        The story is in the movement from card to card: what
+                        kind of work you're in, what's blocking you, what to do
+                        next.
+                    </p>
+                    <p>
+                        The Obstacle card rewards a second look. It usually
+                        reads one of two ways: either it's a practice you've
+                        skipped and now need to go back for, or it's a practice
+                        you're over-relying on. Both are useful. Sit with which
+                        one it is before moving to Action.
+                    </p>
+                    <p>
+                        Consider performing rituals related to the Action card
+                        this week.
+                    </p>
+                    <h4>When not to use this spread</h4>
+                    <p>
+                        If you're not actually stuck — if you're just tired, or
+                        it's Friday — this spread will manufacture a problem
+                        where there isn't one. Save it for when you feel the
+                        friction.
+                    </p>
+                </div>
+
+                <!-- ── Spread 2: Phase Check ── -->
+                <div class="spread" id="spread-phase" hidden>
+                    <h3>Phase check</h3>
+                    <p class="spread-meta">
+                        Two cards. For when you suspect you're working out of
+                        phase.
+                    </p>
+                    <p>
+                        A lot of design trouble comes not from doing the wrong
+                        thing but from doing the right thing at the wrong time —
+                        polishing before the shape is settled, deciding before
+                        you've diverged, testing before there's anything worth
+                        testing. This spread names the gap.
+                    </p>
+                    <h4>How to draw</h4>
+                    <p>Hold your current project in mind. Draw two cards.</p>
+                    <p>
+                        <strong>Where the work is</strong> — the practice this
+                        project is actually asking for right now.<br />
+                        <strong>Where you are</strong> — the practice you're in.
+                    </p>
+                    <div class="spread-positions" id="phase-positions">
+                        <div
+                            class="card-slot"
+                            data-spread="phase"
+                            data-index="0"
+                            data-position="Where the work is"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Where the work is</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="phase"
+                            data-index="1"
+                            data-position="Where you are"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Where you are</div>
+                            <div class="card-reading"></div>
+                        </div>
+                    </div>
+                    <div class="spread-controls">
+                        <button
+                            class="spread-btn btn-draw-all"
+                            data-spread="phase"
+                        >
+                            Draw all
+                        </button>
+                        <button
+                            class="spread-btn btn-reset"
+                            data-spread="phase"
+                            hidden
+                        >
+                            Draw again
+                        </button>
+                    </div>
+                    <h4>How to read</h4>
+                    <p>
+                        If the two cards are close neighbours in the deck,
+                        you're roughly in phase; read them as a confirmation and
+                        a nudge. If they're far apart — an early-phase card
+                        paired with a late-phase one, or vice versa — that's the
+                        reading. You're ahead of the work, or behind it.
+                    </p>
+                    <p>
+                        Being ahead of the work often looks like eagerness:
+                        jumping to Execute when you should still be in Diagnose,
+                        reaching for Polish before you've earned it. Being
+                        behind looks like perfectionism: staying in Refine when
+                        the project needs you in Share.
+                    </p>
+                    <p>Neither is a failure. Both are information.</p>
+                    <h4>When not to use this spread</h4>
+                    <p>
+                        At the very start of a project, before there's enough
+                        shape for "phase" to mean anything. Give it a week or
+                        two.
+                    </p>
+                </div>
+
+                <!-- ── Spread 3: Before / During / After ── -->
+                <div class="spread" id="spread-bda" hidden>
+                    <h3>Before / during / after</h3>
+                    <p class="spread-meta">
+                        Three cards. For a specific moment — a meeting, a
+                        review, a workshop, a kickoff, a send-off.
+                    </p>
+                    <p>
+                        Design work is full of charged moments that most of us
+                        walk into unprepared and walk out of without closing.
+                        This spread gives you a practice for each threshold.
+                    </p>
+                    <h4>How to draw</h4>
+                    <p>
+                        Name the moment out loud or in writing. Be specific —
+                        not "the project" but "Thursday's stakeholder review."
+                        Draw three cards:
+                    </p>
+                    <ol>
+                        <li><strong>Before</strong> — how to prepare.</li>
+                        <li><strong>During</strong> — how to be in it.</li>
+                        <li><strong>After</strong> — how to close it.</li>
+                    </ol>
+                    <div class="spread-positions" id="bda-positions">
+                        <div
+                            class="card-slot"
+                            data-spread="bda"
+                            data-index="0"
+                            data-position="Before"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Before</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="bda"
+                            data-index="1"
+                            data-position="During"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">During</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="bda"
+                            data-index="2"
+                            data-position="After"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">After</div>
+                            <div class="card-reading"></div>
+                        </div>
+                    </div>
+                    <div class="spread-controls">
+                        <button
+                            class="spread-btn btn-draw-all"
+                            data-spread="bda"
+                        >
+                            Draw all
+                        </button>
+                        <button
+                            class="spread-btn btn-reset"
+                            data-spread="bda"
+                            hidden
+                        >
+                            Draw again
+                        </button>
+                    </div>
+                    <h4>How to read</h4>
+                    <p>
+                        Read each card as a practice to perform at that
+                        threshold. If you have time, do the ritual for Before in
+                        the hours leading up to the moment. During is a posture
+                        rather than a task — a card to hold in mind. After is
+                        often the one designers skip; do its ritual within a day
+                        or two, while the moment is still warm.
+                    </p>
+                    <p>
+                        If the same card appears in two positions across
+                        different draws, pay attention. The deck is telling you
+                        something about how you habitually approach these
+                        moments.
+                    </p>
+                    <h4>When not to use this spread</h4>
+                    <p>
+                        For ongoing work without a clear event. This spread
+                        needs a threshold to organise itself around.
+                    </p>
+                </div>
+
+                <!-- ── Spread 4: The Unspoken Brief ── -->
+                <div class="spread" id="spread-brief" hidden>
+                    <h3>The unspoken brief</h3>
+                    <p class="spread-meta">
+                        Three cards. For any project where what was asked and
+                        what's needed don't quite match.
+                    </p>
+                    <p>
+                        Every brief is partly stated, partly implied, and partly
+                        missing. The missing part is usually the one that
+                        matters. This spread helps you name what's actually
+                        being asked for — and what you wish had been.
+                    </p>
+                    <h4>How to draw</h4>
+                    <p>
+                        Have the brief in front of you, or the version of it
+                        you'd write from memory. Draw three cards:
+                    </p>
+                    <ol>
+                        <li>
+                            <strong>The stated brief</strong> — what you've been
+                            explicitly asked to do.
+                        </li>
+                        <li>
+                            <strong>The unstated brief</strong> — what's
+                            actually needed underneath.
+                        </li>
+                        <li>
+                            <strong>The wished-for brief</strong> — the project
+                            you wish this were.
+                        </li>
+                    </ol>
+                    <div class="spread-positions" id="brief-positions">
+                        <div
+                            class="card-slot"
+                            data-spread="brief"
+                            data-index="0"
+                            data-position="The stated brief"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Stated</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="brief"
+                            data-index="1"
+                            data-position="The unstated brief"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Unstated</div>
+                            <div class="card-reading"></div>
+                        </div>
+                        <div
+                            class="card-slot"
+                            data-spread="brief"
+                            data-index="2"
+                            data-position="The wished-for brief"
+                        >
+                            <div class="card-wrapper">
+                                <div class="card-inner">
+                                    <div class="card-face card-back">
+                                        <span class="card-back-moon">🌔</span
+                                        ><span class="card-back-hint"
+                                            >Draw</span
+                                        >
+                                    </div>
+                                    <div class="card-face card-front"></div>
+                                </div>
+                            </div>
+                            <div class="position-label">Wished for</div>
+                            <div class="card-reading"></div>
+                        </div>
+                    </div>
+                    <div class="spread-controls">
+                        <button
+                            class="spread-btn btn-draw-all"
+                            data-spread="brief"
+                        >
+                            Draw all
+                        </button>
+                        <button
+                            class="spread-btn btn-reset"
+                            data-spread="brief"
+                            hidden
+                        >
+                            Draw again
+                        </button>
+                    </div>
+                    <h4>How to read</h4>
+                    <p>
+                        The gap between the first and second cards is where most
+                        of the real work of the project lives. If they're
+                        similar, the brief is clean. If they diverge sharply,
+                        something is being avoided — by the client, by the
+                        organisation, or by you.
+                    </p>
+                    <p>
+                        The third card is harder and more useful. It names the
+                        project you'd rather be doing. Sometimes this reveals a
+                        misalignment worth raising. Sometimes it reveals
+                        something about you — a pattern of wishing your way out
+                        of the work in front of you. Both readings are worth
+                        holding.
+                    </p>
+                    <p>
+                        This spread is not an invitation to rewrite the brief.
+                        It's a diagnostic. What you do with it — push back,
+                        adapt, accept — is a separate decision.
+                    </p>
+                    <h4>When not to use this spread</h4>
+                    <p>
+                        Very early in a project, before you've sat with the
+                        brief long enough to feel its shape. And when you're
+                        frustrated with a client — the third card will tell you
+                        more about your mood than the work.
+                    </p>
+                </div>
+
+                <br />
+                <hr />
+                <p><a href="index.html">View today's card and ritual</a>.</p>
+                <p>
+                    <a
+                        href="files/design-oracle-print-at-home.pdf"
+                        target="_blank"
+                        >Print your own card deck (A4 - PDF - 69MB)</a
+                    >.
+                </p>
+                <p>
+                    Download the
+                    <a href="files/design-oracle-booklet.pdf" target="_blank"
+                        >Design Oracle booklet (PDF - 72.9MB)</a
+                    >
+                    to see all rituals and interpretations.
+                </p>
+                <p
+                    xmlns:cc="http://creativecommons.org/ns#"
+                    xmlns:dct="http://purl.org/dc/terms/"
+                >
+                    <a
+                        property="dct:title"
+                        rel="cc:attributionURL"
+                        href="http://design-oracle.github.io"
+                        >The Design Oracle</a
+                    >
+                    by
+                    <a
+                        rel="cc:attributionURL dct:creator"
+                        property="cc:attributionName"
+                        href="http://www.samirons.me/"
+                        target="_blank"
+                        >Samuel Irons</a
+                    >
+                    is licensed under
+                    <a
+                        href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1"
+                        target="_blank"
+                        rel="license noopener noreferrer"
+                        style="display: inline-block"
+                        >CC BY-NC 4.0</a
+                    >.
+                </p>
+            </section>
+        </div>
+
+        <script src="index.js"></script>
+        <script type="module" src="content-trimmed.js"></script>
+        <script>
+            // ── Tab switching ──
+            document.querySelectorAll(".tab-btn").forEach((btn) => {
+                btn.addEventListener("click", () => {
+                    document
+                        .querySelectorAll(".tab-btn")
+                        .forEach((b) => b.classList.remove("active"));
+                    document
+                        .querySelectorAll(".spread")
+                        .forEach((s) => (s.hidden = true));
+                    btn.classList.add("active");
+                    document.getElementById(
+                        "spread-" + btn.dataset.tab,
+                    ).hidden = false;
+                });
+            });
+
+            let allCards = [];
+
+            // Per-spread state: Set of drawn card numbers
+            const spreadState = {
+                soa: { drawn: new Set(), total: 3 },
+                phase: { drawn: new Set(), total: 2 },
+                bda: { drawn: new Set(), total: 3 },
+                brief: { drawn: new Set(), total: 3 },
+            };
+
+            function pickCard(spreadId) {
+                const state = spreadState[spreadId];
+                const available = allCards.filter(
+                    (c) => !state.drawn.has(c.number),
+                );
+                if (!available.length) return null;
+                const card =
+                    available[Math.floor(Math.random() * available.length)];
+                state.drawn.add(card.number);
+                const inverted = Math.random() < 0.5;
+                return { card, inverted };
+            }
+
+            function revealSlot(slot, { card, inverted }) {
+                const front = slot.querySelector(".card-front");
+                front.innerHTML =
+                    `<img src="${card.image}" alt="${card.name}" />` +
+                    `<div class="card-front-label">${card.number}. ${card.name}</div>`;
+                slot.classList.add("revealed");
+                slot.classList.toggle("inverted", inverted);
+
+                const oracle = inverted
+                    ? card.oracle[1].negative
+                    : card.oracle[0].positive;
+                const orientLabel = inverted ? "Inverted" : "Upright";
+
+                slot.querySelector(".card-reading").innerHTML =
+                    `<div class="card-reading-name">${card.number}. ${card.name}` +
+                    `<span class="reading-orientation">${orientLabel}</span></div>` +
+                    `<p class="card-reading-desc">${card.desc}</p>` +
+                    `<p class="card-reading-oracle">${oracle}</p>`;
+            }
+
+            function checkComplete(spreadId, slots, drawBtn, resetBtn) {
+                if ([...slots].every((s) => s.classList.contains("revealed"))) {
+                    drawBtn.hidden = true;
+                    resetBtn.hidden = false;
+                }
+            }
+
+            function initSpread(spreadId) {
+                const slots = document.querySelectorAll(
+                    `.card-slot[data-spread="${spreadId}"]`,
+                );
+                const drawBtn = document.querySelector(
+                    `.btn-draw-all[data-spread="${spreadId}"]`,
+                );
+                const resetBtn = document.querySelector(
+                    `.btn-reset[data-spread="${spreadId}"]`,
+                );
+
+                // Click individual slot to draw that card
+                slots.forEach((slot) => {
+                    slot.addEventListener("click", () => {
+                        if (slot.classList.contains("revealed")) return;
+                        const draw = pickCard(spreadId);
+                        if (!draw) return;
+                        revealSlot(slot, draw);
+                        checkComplete(spreadId, slots, drawBtn, resetBtn);
+                    });
+                });
+
+                // Draw all unrevealed cards with a staggered delay
+                drawBtn.addEventListener("click", () => {
+                    const unrevealed = [...slots].filter(
+                        (s) => !s.classList.contains("revealed"),
+                    );
+                    unrevealed.forEach((slot, i) => {
+                        const draw = pickCard(spreadId);
+                        if (!draw) return;
+                        setTimeout(() => {
+                            revealSlot(slot, draw);
+                            checkComplete(spreadId, slots, drawBtn, resetBtn);
+                        }, i * 300);
+                    });
+                });
+
+                // Reset the spread
+                resetBtn.addEventListener("click", () => {
+                    spreadState[spreadId].drawn.clear();
+                    slots.forEach((slot) => {
+                        slot.classList.remove("revealed", "inverted");
+                        slot.querySelector(".card-front").innerHTML = "";
+                        slot.querySelector(".card-reading").innerHTML = "";
+                    });
+                    drawBtn.hidden = false;
+                    resetBtn.hidden = true;
+                });
+            }
+
+            fetch("./cards.json")
+                .then((res) => res.json())
+                .then((data) => {
+                    allCards = data.cards;
+                    ["soa", "phase", "bda", "brief"].forEach(initSpread);
+                });
+        </script>
+    </body>
+</html>
