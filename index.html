@@ -1,42 +1,96 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/normalize.css"/>
-  <link rel="stylesheet" href="css/style.css"/>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌗</text></svg>">
-  <title>𝐓𝐨𝐝𝐚𝐲'𝐬 𝐜𝐚𝐫𝐝 | 𝐃𝐞𝐬𝐢𝐠𝐧 𝐎𝐫𝐚𝐜𝐥𝐞</title>
-</head>
-<body>
-  <div id="hero">
-  </div>
-  <div id="wrapper">
-    <section>
-      <div id="cardContent">
-        <div id="lunarContainer">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="css/normalize.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link
+            rel="icon"
+            href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌗</text></svg>"
+        />
+        <title>𝐓𝐨𝐝𝐚𝐲'𝐬 𝐜𝐚𝐫𝐝 | 𝐃𝐞𝐬𝐢𝐠𝐧 𝐎𝐫𝐚𝐜𝐥𝐞</title>
+    </head>
+    <body>
+        <div id="hero"></div>
+        <div id="wrapper">
+            <section>
+                <div id="cardContent">
+                    <div id="lunarContainer"></div>
+                    <h2>Today's card</h2>
+                    <h3 id="cardTitle"></h3>
+                </div>
+                <div id="ritualContainer">
+                    <h4>A RITUAL</h4>
+                    <div class="tooltip">
+                        ⓘ<span class="tooltipText"
+                            >For practical designers, use this ritual to explore
+                            today's card in your design practice.</span
+                        >
+                    </div>
+                    <ol id="ritual"></ol>
+                </div>
+                <div id="oracleContainer">
+                    <h4>A READING</h4>
+                    <div class="tooltip">
+                        ⓘ<span class="tooltipText"
+                            >For intuitive designers, use the following
+                            interpretations to drive insights and personal
+                            revelations about your practice.</span
+                        >
+                    </div>
+                </div>
+                <br />
+                <hr />
+                <p>
+                    <a href="spreads.html">Try different spreads</a> to answer
+                    specific questions.
+                </p>
+                <p></p>
+                <p>
+                    <a
+                        href="files/design-oracle-print-at-home.pdf"
+                        target="_blank"
+                        >Print your own card deck (A4 - PDF - 69MB)</a
+                    >.
+                </p>
+                <p>
+                    Download the
+                    <a href="files/design-oracle-booklet.pdf" target="_blank"
+                        >Design Oracle booklet (PDF - 72.9MB)</a
+                    >
+                    to see all rituals and interpretations.
+                </p>
+                <p
+                    xmlns:cc="http://creativecommons.org/ns#"
+                    xmlns:dct="http://purl.org/dc/terms/"
+                >
+                    <a
+                        property="dct:title"
+                        rel="cc:attributionURL"
+                        href="http://design-oracle.github.io"
+                        >The Design Oracle</a
+                    >
+                    by
+                    <a
+                        rel="cc:attributionURL dct:creator"
+                        property="cc:attributionName"
+                        href="http://www.samirons.me/"
+                        target="_blank"
+                        >Samuel Irons</a
+                    >
+                    is licensed under
+                    <a
+                        href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1"
+                        target="_blank"
+                        rel="license noopener noreferrer"
+                        style="display: inline-block"
+                        >CC BY-NC 4.0</a
+                    >.
+                </p>
+            </section>
         </div>
-        <h2>Today's card</h2>
-        <h3 id="cardTitle"></h3>
-      </div>
-      <div id="ritualContainer">
-        <h4>A RITUAL</h4>
-        <div class="tooltip">ⓘ<span class="tooltipText">For practical designers, use this ritual to explore today's card in your design practice.</span></div>
-        <ol id="ritual">
-        </ol>
-      </div>
-      <div id="oracleContainer">
-        <h4>A READING</h4>
-        <div class="tooltip">ⓘ<span class="tooltipText">For intuitive designers, use the following interpretations to drive insights and personal revelations about your practice.</span></div>
-      </div>
-      <br/>
-      <hr/>
-      <p><a href="files/design-oracle-print-at-home.pdf" target="_blank">Print your own card deck (A4 - PDF - 69MB)</a>.</p>
-      <p>Download the <a href="files/design-oracle-booklet.pdf" target="_blank">Design Oracle booklet (PDF - 72.9MB)</a> to see all rituals and interpretations.</p>
-      <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="http://design-oracle.github.io">The Design Oracle</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.samirons.me/" target="_blank">Samuel Irons</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0</a>.</p>
-    </section>
-  </div>
-<script type="text/javascript" src="index.js"></script>
-<script type="module" src="content.js"></script>
-</body>
+        <script type="text/javascript" src="index.js"></script>
+        <script type="module" src="content.js"></script>
+    </body>
 </html>
